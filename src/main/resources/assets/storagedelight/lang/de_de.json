@@ -1,0 +1,34 @@
+{
+  "container.storagedelight.drawer": "Schublade",
+  "container.storagedelight.glass_cabinet": "Glasvitrine",
+  "container.storagedelight.default_cabinet": "Schrank",
+
+  "block.storagedelight.cherry_cabinet": "Kirschschrank",
+  "block.storagedelight.bamboo_cabinet": "Bambusschrank",
+
+  "block.storagedelight.oak_drawer": "Eichenschublade",
+  "block.storagedelight.birch_drawer": "Birkenschublade",
+  "block.storagedelight.spruce_drawer": "Fichtenschublade",
+  "block.storagedelight.cherry_drawer": "Kirschschublade",
+  "block.storagedelight.jungle_drawer": "Dschungelschublade",
+  "block.storagedelight.acacia_drawer": "Akazienschublade",
+  "block.storagedelight.dark_oak_drawer": "Schwarzeichen-Schublade",
+  "block.storagedelight.mangrove_drawer": "Mangrovenschublade",
+  "block.storagedelight.crimson_drawer": "Karmesinschublade",
+  "block.storagedelight.warped_drawer": "Verzerrte Schublade",
+  "block.storagedelight.bamboo_drawer": "Bambuslade",
+
+  "block.storagedelight.glass_oak_cabinet": "Glas Eichenschrank",
+  "block.storagedelight.glass_birch_cabinet": "Glas Birkenschrank",
+  "block.storagedelight.glass_spruce_cabinet": "Glas Fichtenschrank",
+  "block.storagedelight.glass_cherry_cabinet": "Glas Kirschschrank",
+  "block.storagedelight.glass_jungle_cabinet": "Glas Dschungelschrank",
+  "block.storagedelight.glass_acacia_cabinet": "Glas Akazienschrank",
+  "block.storagedelight.glass_dark_oak_cabinet": "Glas Schwarzeichen-Schrank",
+  "block.storagedelight.glass_mangrove_cabinet": "Glas Mangrovenschrank",
+  "block.storagedelight.glass_crimson_cabinet": "Glas Karmesinschrank",
+  "block.storagedelight.glass_warped_cabinet": "Glas Verzerrter Schrank",
+  "block.storagedelight.glass_bamboo_cabinet": "Glas Bambusschrank",
+
+  "itemGroup.storagedelight.title": "Storage Delight"
+}

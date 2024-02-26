@@ -1,0 +1,34 @@
+{
+  "container.storagedelight.drawer": "Lade",
+  "container.storagedelight.glass_cabinet": "Glazen Kast",
+  "container.storagedelight.default_cabinet": "Kast",
+
+  "block.storagedelight.cherry_cabinet": "Kersen Kast",
+  "block.storagedelight.bamboo_cabinet": "Bamboe Kast",
+
+  "block.storagedelight.oak_drawer": "Eiken Lade",
+  "block.storagedelight.birch_drawer": "Berken Lade",
+  "block.storagedelight.spruce_drawer": "Sparren Lade",
+  "block.storagedelight.cherry_drawer": "Kersen Lade",
+  "block.storagedelight.jungle_drawer": "Oerwoud Lade",
+  "block.storagedelight.acacia_drawer": "Acacia Lade",
+  "block.storagedelight.dark_oak_drawer": "Donkere Eiken Lade",
+  "block.storagedelight.mangrove_drawer": "Mangrove Lade",
+  "block.storagedelight.crimson_drawer": "Karmozijn Lade",
+  "block.storagedelight.warped_drawer": "Verdraaide Lade",
+  "block.storagedelight.bamboo_drawer": "Bamboelade",
+
+  "block.storagedelight.glass_oak_cabinet": "Glazen Eiken Kast",
+  "block.storagedelight.glass_birch_cabinet": "Glazen Berken Kast",
+  "block.storagedelight.glass_spruce_cabinet": "Glazen Sparren Kast",
+  "block.storagedelight.glass_cherry_cabinet": "Glazen Kersen Kast",
+  "block.storagedelight.glass_jungle_cabinet": "Glazen Oerwoud Kast",
+  "block.storagedelight.glass_acacia_cabinet": "Glazen Acacia Kast",
+  "block.storagedelight.glass_dark_oak_cabinet": "Glazen Donkere Eiken Kast",
+  "block.storagedelight.glass_mangrove_cabinet": "Glazen Mangrove Kast",
+  "block.storagedelight.glass_crimson_cabinet": "Glazen Karmozijn Kast",
+  "block.storagedelight.glass_warped_cabinet": "Glazen Verdraaide Kast",
+  "block.storagedelight.glass_bamboo_cabinet": "Glas Bamboe Kast",
+
+  "itemGroup.storagedelight.title": "Storage Delight"
+}

@@ -1,0 +1,34 @@
+{
+  "container.storagedelight.drawer": "Tiroir",
+  "container.storagedelight.glass_cabinet": "Cabinet en Verre",
+  "container.storagedelight.default_cabinet": "Cabinet",
+
+  "block.storagedelight.cherry_cabinet": "Cabinet de Cerisier",
+  "block.storagedelight.bamboo_cabinet": "Armoire en bambou",
+
+  "block.storagedelight.oak_drawer": "Tiroir en Chêne",
+  "block.storagedelight.birch_drawer": "Tiroir en Bouleau",
+  "block.storagedelight.spruce_drawer": "Tiroir en Épinette",
+  "block.storagedelight.cherry_drawer": "Tiroir de Cerisier",
+  "block.storagedelight.jungle_drawer": "Tiroir de Jungle",
+  "block.storagedelight.acacia_drawer": "Tiroir d'Acacia",
+  "block.storagedelight.dark_oak_drawer": "Tiroir en Chêne Noir",
+  "block.storagedelight.mangrove_drawer": "Tiroir de Mangrove",
+  "block.storagedelight.crimson_drawer": "Tiroir Crimsois",
+  "block.storagedelight.warped_drawer": "Tiroir Déformé",
+  "block.storagedelight.bamboo_drawer": "Tiroir en Bambou",
+
+  "block.storagedelight.glass_oak_cabinet": "Cabinet en Verre de Chêne",
+  "block.storagedelight.glass_birch_cabinet": "Cabinet en Verre de Bouleau",
+  "block.storagedelight.glass_spruce_cabinet": "Cabinet en Verre d'Épinette",
+  "block.storagedelight.glass_cherry_cabinet": "Cabinet en Verre de Cerisier",
+  "block.storagedelight.glass_jungle_cabinet": "Cabinet en Verre de Jungle",
+  "block.storagedelight.glass_acacia_cabinet": "Cabinet en Verre d'Acacia",
+  "block.storagedelight.glass_dark_oak_cabinet": "Cabinet en Verre de Chêne Noir",
+  "block.storagedelight.glass_mangrove_cabinet": "Cabinet en Verre de Mangrove",
+  "block.storagedelight.glass_crimson_cabinet": "Cabinet en Verre Crimsois",
+  "block.storagedelight.glass_warped_cabinet": "Cabinet en Verre Déformé",
+  "block.storagedelight.glass_bamboo_cabinet": "Armoire en Verre de Bambou",
+
+  "itemGroup.storagedelight.title": "Storage Delight"
+}

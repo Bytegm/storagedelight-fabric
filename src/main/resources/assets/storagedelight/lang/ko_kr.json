@@ -1,0 +1,33 @@
+{
+  "container.storagedelight.drawer": "서랍",
+  "container.storagedelight.glass_cabinet": "유리 캐비닛",
+  "container.storagedelight.default_cabinet": "체리",
+
+  "block.storagedelight.cherry_cabinet": "체리 캐비닛",
+
+  "block.storagedelight.oak_drawer": "참나무 서랍",
+  "block.storagedelight.birch_drawer": "자작나무 서랍",
+  "block.storagedelight.spruce_drawer": "전나무 서랍",
+  "block.storagedelight.cherry_drawer": "체리 나무 서랍",
+  "block.storagedelight.jungle_drawer": "정글 나무 서랍",
+  "block.storagedelight.acacia_drawer": "아카시아 나무 서랍",
+  "block.storagedelight.dark_oak_drawer": "어두운 참나무 서랍",
+  "block.storagedelight.mangrove_drawer": "맹그로브 나무 서랍",
+  "block.storagedelight.crimson_drawer": "크림슨 나무 서랍",
+  "block.storagedelight.warped_drawer": "찌그러진 나무 서랍",
+  "block.storagedelight.bamboo_drawer": "대나무 서랍",
+
+  "block.storagedelight.glass_oak_cabinet": "유리 참나무 캐비닛",
+  "block.storagedelight.glass_birch_cabinet": "유리 자작나무 캐비닛",
+  "block.storagedelight.glass_spruce_cabinet": "유리 전나무 캐비닛",
+  "block.storagedelight.glass_cherry_cabinet": "유리 체리 캐비닛",
+  "block.storagedelight.glass_jungle_cabinet": "유리 정글 캐비닛",
+  "block.storagedelight.glass_acacia_cabinet": "유리 아카시아 캐비닛",
+  "block.storagedelight.glass_dark_oak_cabinet": "유리 어두운 참나무 캐비닛",
+  "block.storagedelight.glass_mangrove_cabinet": "유리 맹그로브 캐비닛",
+  "block.storagedelight.glass_crimson_cabinet": "유리 크림슨 캐비닛",
+  "block.storagedelight.glass_warped_cabinet": "유리 찌그러진 캐비닛",
+  "block.storagedelight.glass_bamboo_cabinet": "유리 대나무 캐비닛",
+
+  "itemGroup.storagedelight.title": "Storage Delight"
+}

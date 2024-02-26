@@ -1,0 +1,34 @@
+{
+  "container.storagedelight.drawer": "Cajón",
+  "container.storagedelight.glass_cabinet": "Gabinete de Vidrio",
+  "container.storagedelight.default_cabinet": "Gabinete",
+
+  "block.storagedelight.cherry_cabinet": "Gabinete de Cerezo",
+  "block.storagedelight.bamboo_cabinet": "Gabinete de Bambú",
+
+  "block.storagedelight.oak_drawer": "Cajón de Roble",
+  "block.storagedelight.birch_drawer": "Cajón de Abedul",
+  "block.storagedelight.spruce_drawer": "Cajón de Abeto",
+  "block.storagedelight.cherry_drawer": "Cajón de Cerezo",
+  "block.storagedelight.jungle_drawer": "Cajón de Selva",
+  "block.storagedelight.acacia_drawer": "Cajón de Acacia",
+  "block.storagedelight.dark_oak_drawer": "Cajón de Roble Oscuro",
+  "block.storagedelight.mangrove_drawer": "Cajón de Manglar",
+  "block.storagedelight.crimson_drawer": "Cajón Carmesí",
+  "block.storagedelight.warped_drawer": "Cajón Distorcido",
+  "block.storagedelight.bamboo_drawer": "Cajón de Bambú",
+
+  "block.storagedelight.glass_oak_cabinet": "Gabinete de Vidrio de Roble",
+  "block.storagedelight.glass_birch_cabinet": "Gabinete de Vidrio de Abedul",
+  "block.storagedelight.glass_spruce_cabinet": "Gabinete de Vidrio de Abeto",
+  "block.storagedelight.glass_cherry_cabinet": "Gabinete de Vidrio de Cerezo",
+  "block.storagedelight.glass_jungle_cabinet": "Gabinete de Vidrio de Selva",
+  "block.storagedelight.glass_acacia_cabinet": "Gabinete de Vidrio de Acacia",
+  "block.storagedelight.glass_dark_oak_cabinet": "Gabinete de Vidrio de Roble Oscuro",
+  "block.storagedelight.glass_mangrove_cabinet": "Gabinete de Vidrio de Manglar",
+  "block.storagedelight.glass_crimson_cabinet": "Gabinete de Vidrio de Carmesí",
+  "block.storagedelight.glass_warped_cabinet": "Gabinete de Vidrio Distorcido",
+  "block.storagedelight.glass_bamboo_cabinet": "Gabinete de Vidrio de Bambú",
+
+  "itemGroup.storagedelight.title": "Storage Delight"
+}

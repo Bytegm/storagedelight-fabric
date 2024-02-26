@@ -1,0 +1,34 @@
+{
+  "container.storagedelight.drawer": "抽屜",
+  "container.storagedelight.glass_cabinet": "玻璃櫃",
+  "container.storagedelight.default_cabinet": "櫥櫃",
+
+  "block.storagedelight.cherry_cabinet": "櫻桃櫃",
+  "block.storagedelight.bamboo_cabinet": "竹櫃",
+
+  "block.storagedelight.oak_drawer": "橡木抽屜",
+  "block.storagedelight.birch_drawer": "樺木抽屜",
+  "block.storagedelight.spruce_drawer": "杉木抽屜",
+  "block.storagedelight.cherry_drawer": "櫻桃抽屜",
+  "block.storagedelight.jungle_drawer": "叢林抽屜",
+  "block.storagedelight.acacia_drawer": "合金木抽屜",
+  "block.storagedelight.dark_oak_drawer": "深色橡木抽屜",
+  "block.storagedelight.mangrove_drawer": "紅樹抽屜",
+  "block.storagedelight.crimson_drawer": "赤木抽屜",
+  "block.storagedelight.warped_drawer": "扭曲木抽屜",
+  "block.storagedelight.bamboo_drawer": "竹抽屜",
+
+  "block.storagedelight.glass_oak_cabinet": "玻璃橡木櫃",
+  "block.storagedelight.glass_birch_cabinet": "玻璃樺木櫃",
+  "block.storagedelight.glass_spruce_cabinet": "玻璃杉木櫃",
+  "block.storagedelight.glass_cherry_cabinet": "玻璃櫻桃櫃",
+  "block.storagedelight.glass_jungle_cabinet": "玻璃叢林櫃",
+  "block.storagedelight.glass_acacia_cabinet": "玻璃合金木櫃",
+  "block.storagedelight.glass_dark_oak_cabinet": "玻璃深色橡木櫃",
+  "block.storagedelight.glass_mangrove_cabinet": "玻璃紅樹櫃",
+  "block.storagedelight.glass_crimson_cabinet": "玻璃赤木櫃",
+  "block.storagedelight.glass_warped_cabinet": "玻璃扭曲木櫃",
+  "block.storagedelight.glass_bamboo_cabinet": "玻璃竹櫃",
+
+  "itemGroup.storagedelight.title": "Storage Delight"
+}

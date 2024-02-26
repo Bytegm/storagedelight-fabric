@@ -1,0 +1,34 @@
+{
+  "container.storagedelight.drawer": "Låda",
+  "container.storagedelight.glass_cabinet": "Glas Skåp",
+  "container.storagedelight.default_cabinet": "Skåp",
+
+  "block.storagedelight.cherry_cabinet": "Körsbär Skåp",
+  "block.storagedelight.bamboo_cabinet": "Bambuskåp",
+
+  "block.storagedelight.oak_drawer": "Ek Låda",
+  "block.storagedelight.birch_drawer": "Björk Låda",
+  "block.storagedelight.spruce_drawer": "Gran Låda",
+  "block.storagedelight.cherry_drawer": "Körsbär Låda",
+  "block.storagedelight.jungle_drawer": "Djungel Låda",
+  "block.storagedelight.acacia_drawer": "Akacia Låda",
+  "block.storagedelight.dark_oak_drawer": "Mörk Ek Låda",
+  "block.storagedelight.mangrove_drawer": "Mangrove Låda",
+  "block.storagedelight.crimson_drawer": "Karmosin Låda",
+  "block.storagedelight.warped_drawer": "Förvriden Låda",
+  "block.storagedelight.bamboo_drawer": "Bambulåda",
+
+  "block.storagedelight.glass_oak_cabinet": "Glas Ek Skåp",
+  "block.storagedelight.glass_birch_cabinet": "Glas Björk Skåp",
+  "block.storagedelight.glass_spruce_cabinet": "Glas Gran Skåp",
+  "block.storagedelight.glass_cherry_cabinet": "Glas Körsbär Skåp",
+  "block.storagedelight.glass_jungle_cabinet": "Glas Djungel Skåp",
+  "block.storagedelight.glass_acacia_cabinet": "Glas Akacia Skåp",
+  "block.storagedelight.glass_dark_oak_cabinet": "Glas Mörk Ek Skåp",
+  "block.storagedelight.glass_mangrove_cabinet": "Glas Mangrove Skåp",
+  "block.storagedelight.glass_crimson_cabinet": "Glas Karmosin Skåp",
+  "block.storagedelight.glass_warped_cabinet": "Glas Förvriden Skåp",
+  "block.storagedelight.glass_bamboo_cabinet": "Glas Bambuskåp",
+
+  "itemGroup.storagedelight.title": "Storage Delight"
+}

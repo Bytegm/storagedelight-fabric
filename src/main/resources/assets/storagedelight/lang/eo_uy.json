@@ -1,0 +1,31 @@
+{
+  "container.storagedelight.drawer": "Drawero",
+  "container.storagedelight.glass_cabinet": "Vitro Ŝranko",
+  "container.storagedelight.default_cabinet": "Ŝranko",
+
+  "block.storagedelight.cherry_cabinet": "Kirska Ŝranko",
+
+  "block.storagedelight.oak_drawer": "Kverka Drawero",
+  "block.storagedelight.birch_drawer": "Betula Drawero",
+  "block.storagedelight.spruce_drawer": "Abio Drawero",
+  "block.storagedelight.cherry_drawer": "Kirska Drawero",
+  "block.storagedelight.jungle_drawer": "Ĵunga Drawero",
+  "block.storagedelight.acacia_drawer": "Akacian Drawero",
+  "block.storagedelight.dark_oak_drawer": "Malkverka Drawero",
+  "block.storagedelight.mangrove_drawer": "Mangrova Drawero",
+  "block.storagedelight.crimson_drawer": "Krimsona Drawero",
+  "block.storagedelight.warped_drawer": "Warpita Drawero",
+
+  "block.storagedelight.glass_oak_cabinet": "Vitra Kverka Ŝranko",
+  "block.storagedelight.glass_birch_cabinet": "Vitra Betula Ŝranko",
+  "block.storagedelight.glass_spruce_cabinet": "Vitra Abio Ŝranko",
+  "block.storagedelight.glass_cherry_cabinet": "Vitra Kirska Ŝranko",
+  "block.storagedelight.glass_jungle_cabinet": "Vitra Ĵunga Ŝranko",
+  "block.storagedelight.glass_acacia_cabinet": "Vitra Akacian Ŝranko",
+  "block.storagedelight.glass_dark_oak_cabinet": "Vitra Malkverka Ŝranko",
+  "block.storagedelight.glass_mangrove_cabinet": "Vitra Mangrova Ŝranko",
+  "block.storagedelight.glass_crimson_cabinet": "Vitra Krimsona Ŝranko",
+  "block.storagedelight.glass_warped_cabinet": "Vitra Warpita Ŝranko",
+
+  "itemGroup.storagedelight.title": "Storage Delight"
+}

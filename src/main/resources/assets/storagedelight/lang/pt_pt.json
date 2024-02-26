@@ -1,0 +1,34 @@
+{
+  "container.storagedelight.drawer": "Gaveta",
+  "container.storagedelight.glass_cabinet": "Armário de Vidro",
+  "container.storagedelight.default_cabinet": "Armário",
+
+  "block.storagedelight.cherry_cabinet": "Armário de Cerejeira",
+  "block.storagedelight.bamboo_cabinet": "Armário de Bambu",
+
+  "block.storagedelight.oak_drawer": "Gaveta de Carvalho",
+  "block.storagedelight.birch_drawer": "Gaveta de Bétula",
+  "block.storagedelight.spruce_drawer": "Gaveta de Pinheiro",
+  "block.storagedelight.cherry_drawer": "Gaveta de Cerejeira",
+  "block.storagedelight.jungle_drawer": "Gaveta de Selva",
+  "block.storagedelight.acacia_drawer": "Gaveta de Acácia",
+  "block.storagedelight.dark_oak_drawer": "Gaveta de Carvalho Escuro",
+  "block.storagedelight.mangrove_drawer": "Gaveta de Mangal",
+  "block.storagedelight.crimson_drawer": "Gaveta Carmesim",
+  "block.storagedelight.warped_drawer": "Gaveta Distorcida",
+  "block.storagedelight.bamboo_drawer": "Gaveta de Bambu",
+
+  "block.storagedelight.glass_oak_cabinet": "Armário de Vidro de Carvalho",
+  "block.storagedelight.glass_birch_cabinet": "Armário de Vidro de Bétula",
+  "block.storagedelight.glass_spruce_cabinet": "Armário de Vidro de Pinheiro",
+  "block.storagedelight.glass_cherry_cabinet": "Armário de Vidro de Cerejeira",
+  "block.storagedelight.glass_jungle_cabinet": "Armário de Vidro de Selva",
+  "block.storagedelight.glass_acacia_cabinet": "Armário de Vidro de Acácia",
+  "block.storagedelight.glass_dark_oak_cabinet": "Armário de Vidro de Carvalho Escuro",
+  "block.storagedelight.glass_mangrove_cabinet": "Armário de Vidro de Mangal",
+  "block.storagedelight.glass_crimson_cabinet": "Armário de Vidro Carmesim",
+  "block.storagedelight.glass_warped_cabinet": "Armário de Vidro Distorcido",
+  "block.storagedelight.glass_bamboo_cabinet": "Armário de Vidro de Bambu",
+
+  "itemGroup.storagedelight.title": "Storage Delight"
+}

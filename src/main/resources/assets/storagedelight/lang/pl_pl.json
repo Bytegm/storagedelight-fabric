@@ -1,0 +1,34 @@
+{
+  "container.storagedelight.drawer": "Szuflada",
+  "container.storagedelight.glass_cabinet": "Szklana Szafka",
+  "container.storagedelight.default_cabinet": "Szafka",
+
+  "block.storagedelight.cherry_cabinet": "Kabinet Wiśniowy",
+  "block.storagedelight.bamboo_cabinet": "Szafka bambusowa",
+
+  "block.storagedelight.oak_drawer": "Szuflada Dębowa",
+  "block.storagedelight.birch_drawer": "Szuflada Brzozowa",
+  "block.storagedelight.spruce_drawer": "Szuflada Świerkowa",
+  "block.storagedelight.cherry_drawer": "Szuflada Wiśniowa",
+  "block.storagedelight.jungle_drawer": "Szuflada z Dżungli",
+  "block.storagedelight.acacia_drawer": "Szuflada Akacjowa",
+  "block.storagedelight.dark_oak_drawer": "Szuflada z Ciemnego Dębu",
+  "block.storagedelight.mangrove_drawer": "Szuflada Mangrowa",
+  "block.storagedelight.crimson_drawer": "Szuflada Karmazynowa",
+  "block.storagedelight.warped_drawer": "Szuflada Wykrzywiona",
+  "block.storagedelight.bamboo_drawer": "Szuflada bambusowa",
+
+  "block.storagedelight.glass_oak_cabinet": "Szklany Kabinet Dębowy",
+  "block.storagedelight.glass_birch_cabinet": "Szklany Kabinet Brzozowy",
+  "block.storagedelight.glass_spruce_cabinet": "Szklany Kabinet Świerkowy",
+  "block.storagedelight.glass_cherry_cabinet": "Szklany Kabinet Wiśniowy",
+  "block.storagedelight.glass_jungle_cabinet": "Szklany Kabinet z Dżungli",
+  "block.storagedelight.glass_acacia_cabinet": "Szklany Kabinet Akacjowy",
+  "block.storagedelight.glass_dark_oak_cabinet": "Szklany Kabinet z Ciemnego Dębu",
+  "block.storagedelight.glass_mangrove_cabinet": "Szklany Kabinet Mangrowy",
+  "block.storagedelight.glass_crimson_cabinet": "Szklany Kabinet Karmazynowy",
+  "block.storagedelight.glass_warped_cabinet": "Szklany Kabinet Wykrzywiony",
+  "block.storagedelight.glass_bamboo_cabinet": "Szklany szafka bambusowa",
+
+  "itemGroup.storagedelight.title": "Storage Delight"
+}

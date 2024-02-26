@@ -1,0 +1,34 @@
+{
+  "container.storagedelight.drawer": "引き出し",
+  "container.storagedelight.glass_cabinet": "ガラスキャビネット",
+  "container.storagedelight.default_cabinet": "キャビネット",
+
+  "block.storagedelight.cherry_cabinet": "チェリーキャビネット",
+  "block.storagedelight.bamboo_cabinet": "竹製キャビネット",
+
+  "block.storagedelight.oak_drawer": "オークの引き出し",
+  "block.storagedelight.birch_drawer": "白樺の引き出し",
+  "block.storagedelight.spruce_drawer": "松の引き出し",
+  "block.storagedelight.cherry_drawer": "チェリーの引き出し",
+  "block.storagedelight.jungle_drawer": "ジャングルの引き出し",
+  "block.storagedelight.acacia_drawer": "アカシアの引き出し",
+  "block.storagedelight.dark_oak_drawer": "ダークオークの引き出し",
+  "block.storagedelight.mangrove_drawer": "マングローブの引き出し",
+  "block.storagedelight.crimson_drawer": "クリムゾンの引き出し",
+  "block.storagedelight.warped_drawer": "ワープドの引き出し",
+  "block.storagedelight.bamboo_drawer": "竹製の引き出し",
+
+  "block.storagedelight.glass_oak_cabinet": "ガラスオークキャビネット",
+  "block.storagedelight.glass_birch_cabinet": "ガラス白樺キャビネット",
+  "block.storagedelight.glass_spruce_cabinet": "ガラス松キャビネット",
+  "block.storagedelight.glass_cherry_cabinet": "ガラスチェリーキャビネット",
+  "block.storagedelight.glass_jungle_cabinet": "ガラスジャングルキャビネット",
+  "block.storagedelight.glass_acacia_cabinet": "ガラスアカシアキャビネット",
+  "block.storagedelight.glass_dark_oak_cabinet": "ガラスダークオークキャビネット",
+  "block.storagedelight.glass_mangrove_cabinet": "ガラスマングローブキャビネット",
+  "block.storagedelight.glass_crimson_cabinet": "ガラスクリムゾンキャビネット",
+  "block.storagedelight.glass_warped_cabinet": "ガラスワープドキャビネット",
+  "block.storagedelight.glass_bamboo_cabinet": "ガラス竹製キャビネット",
+
+  "itemGroup.storagedelight.title": "Storage Delight"
+}

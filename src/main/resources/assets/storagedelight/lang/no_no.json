@@ -1,0 +1,34 @@
+{
+  "container.storagedelight.drawer": "Skruff",
+  "container.storagedelight.glass_cabinet": "Glass Skap",
+  "container.storagedelight.default_cabinet": "Skap",
+
+  "block.storagedelight.cherry_cabinet": "Kirsebær Skap",
+  "block.storagedelight.bamboo_cabinet": "Bambusskap",
+
+  "block.storagedelight.oak_drawer": "Eik Skuff",
+  "block.storagedelight.birch_drawer": "Bjørk Skuff",
+  "block.storagedelight.spruce_drawer": "Gran Skuff",
+  "block.storagedelight.cherry_drawer": "Kirsebær Skuff",
+  "block.storagedelight.jungle_drawer": "Jungel Skuff",
+  "block.storagedelight.acacia_drawer": "Akasie Skuff",
+  "block.storagedelight.dark_oak_drawer": "Mørk Eik Skuff",
+  "block.storagedelight.mangrove_drawer": "Mangrove Skuff",
+  "block.storagedelight.crimson_drawer": "Karmosin Skuff",
+  "block.storagedelight.warped_drawer": "Forvridd Skuff",
+  "block.storagedelight.bamboo_drawer": "Bambu Skuff",
+
+  "block.storagedelight.glass_oak_cabinet": "Glass Eik Skap",
+  "block.storagedelight.glass_birch_cabinet": "Glass Bjørk Skap",
+  "block.storagedelight.glass_spruce_cabinet": "Glass Gran Skap",
+  "block.storagedelight.glass_cherry_cabinet": "Glass Kirsebær Skap",
+  "block.storagedelight.glass_jungle_cabinet": "Glass Jungel Skap",
+  "block.storagedelight.glass_acacia_cabinet": "Glass Akasie Skap",
+  "block.storagedelight.glass_dark_oak_cabinet": "Glass Mørk Eik Skap",
+  "block.storagedelight.glass_mangrove_cabinet": "Glass Mangrove Skap",
+  "block.storagedelight.glass_crimson_cabinet": "Glass Karmosin Skap",
+  "block.storagedelight.glass_warped_cabinet": "Glass Forvridd Skap",
+  "block.storagedelight.glass_bamboo_cabinet": "Glass Bambu Skap",
+
+  "itemGroup.storagedelight.title": "Storage Delight"
+}
