@@ -2,7 +2,7 @@
 ___
 **Enhance your kitchen experience** with drawers and glass cabinets designed to keep everything tidy. Transform the aesthetic appeal of your kitchen while effortlessly organizing your essentials for a seamless and attractive culinary space.
 
-[**Forge Version**](https://www.curseforge.com/minecraft/mc-mods/storage-delight-forge) | [**Discord Community**](https://discord.gg/z2E7Q78v8X)
+[**Forge Download**](https://www.curseforge.com/minecraft/mc-mods/storage-delight-forge) | [**Discord Community**](https://discord.gg/z2E7Q78v8X)
 
 🍅 **Drawers:**
 - Craft practical drawers using various any wood type like oak, birch, spruce, jungle, acacia, dark oak, mangrove, cherry, bamboo, crimson, and warped.
