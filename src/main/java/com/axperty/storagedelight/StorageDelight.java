@@ -22,7 +22,7 @@ public class StorageDelight implements ModInitializer {
     @Override
     public void onInitialize() {
         Registry.register(Registries.ITEM_GROUP, ITEM_GROUP, FabricItemGroup.builder()
-                .displayName(Text.translatable("itemGroup.storagedelight.title"))
+                .displayName(Text.translatable("itemGroup.storagedelight"))
                 .icon(() -> new ItemStack(ItemsRegistry.OAK_DRAWER.get()))
                 .build());
 

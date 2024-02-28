@@ -4,6 +4,7 @@
   "container.storagedelight.default_cabinet": "Ŝranko",
 
   "block.storagedelight.cherry_cabinet": "Kirska Ŝranko",
+  "block.storagedelight.bamboo_cabinet": "Bambua Ŝranko",
 
   "block.storagedelight.oak_drawer": "Kverka Drawero",
   "block.storagedelight.birch_drawer": "Betula Drawero",
@@ -15,6 +16,7 @@
   "block.storagedelight.mangrove_drawer": "Mangrova Drawero",
   "block.storagedelight.crimson_drawer": "Krimsona Drawero",
   "block.storagedelight.warped_drawer": "Warpita Drawero",
+  "block.storagedelight.bamboo_drawer": "Bambua Drawero",
 
   "block.storagedelight.glass_oak_cabinet": "Vitra Kverka Ŝranko",
   "block.storagedelight.glass_birch_cabinet": "Vitra Betula Ŝranko",
@@ -26,6 +28,7 @@
   "block.storagedelight.glass_mangrove_cabinet": "Vitra Mangrova Ŝranko",
   "block.storagedelight.glass_crimson_cabinet": "Vitra Krimsona Ŝranko",
   "block.storagedelight.glass_warped_cabinet": "Vitra Warpita Ŝranko",
+  "block.storagedelight.glass_bamboo_cabinet": "Vitra Bambua Ŝranko",
 
-  "itemGroup.storagedelight.title": "Storage Delight"
+  "itemGroup.storagedelight": "Storage Delight"
 }

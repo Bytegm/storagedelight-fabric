@@ -18,7 +18,6 @@
   "block.storagedelight.warped_drawer": "Warped Drawer",
   "block.storagedelight.bamboo_drawer": "Bamboo Drawer",
 
-
   "block.storagedelight.glass_oak_cabinet": "Glass Oak Cabinet",
   "block.storagedelight.glass_birch_cabinet": "Glass Birch Cabinet",
   "block.storagedelight.glass_spruce_cabinet": "Glass Spruce Cabinet",
@@ -31,5 +30,5 @@
   "block.storagedelight.glass_warped_cabinet": "Glass Warped Cabinet",
   "block.storagedelight.glass_bamboo_cabinet": "Glass Bamboo Cabinet",
 
-  "itemGroup.storagedelight.title": "Storage Delight"
+  "itemGroup.storagedelight": "Storage Delight"
 }
