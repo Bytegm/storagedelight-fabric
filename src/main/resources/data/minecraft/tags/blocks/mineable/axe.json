@@ -1,6 +1,8 @@
 {
   "replace": false,
   "values": [
+    "storagedelight:cherry_cabinet",
+    "storagedelight:bamboo_cabinet",
     "storagedelight:oak_drawer",
     "storagedelight:spruce_drawer",
     "storagedelight:birch_drawer",
@@ -8,6 +10,8 @@
     "storagedelight:acacia_drawer",
     "storagedelight:dark_oak_drawer",
     "storagedelight:mangrove_drawer",
+    "storagedelight:cherry_drawer",
+    "storagedelight:bamboo_drawer",
     "storagedelight:crimson_drawer",
     "storagedelight:warped_drawer",
     "storagedelight:glass_oak_cabinet",
@@ -17,6 +21,8 @@
     "storagedelight:glass_acacia_cabinet",
     "storagedelight:glass_dark_oak_cabinet",
     "storagedelight:glass_mangrove_cabinet",
+    "storagedelight:glass_cherry_cabinet",
+    "storagedelight:glass_bamboo_cabinet",
     "storagedelight:glass_crimson_cabinet",
     "storagedelight:glass_warped_cabinet"
   ]
