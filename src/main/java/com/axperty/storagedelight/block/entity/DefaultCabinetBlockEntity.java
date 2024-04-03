@@ -2,7 +2,6 @@ package com.axperty.storagedelight.block.entity;
 
 import com.axperty.storagedelight.block.DefaultCabinetBlock;
 import com.axperty.storagedelight.registry.BlockEntityTypesRegistry;
-import com.nhoryzon.mc.farmersdelight.registry.SoundsRegistry;
 import net.minecraft.block.BlockState;
 import net.minecraft.block.entity.BlockEntityType;
 import net.minecraft.block.entity.LootableContainerBlockEntity;
@@ -45,12 +44,12 @@ public class DefaultCabinetBlockEntity extends LootableContainerBlockEntity {
         this.content = DefaultedList.ofSize(MAX_INVENTORY_SIZE, ItemStack.EMPTY);
         this.viewerManager = new ViewerCountManager() {
             protected void onContainerOpen(World world, BlockPos pos, BlockState state) {
-                DefaultCabinetBlockEntity.this.playSound(state, SoundsRegistry.BLOCK_CABINET_OPEN.get());
+                DefaultCabinetBlockEntity.this.playSound(state, SoundEvents.BLOCK_BARREL_OPEN);
                 DefaultCabinetBlockEntity.this.setOpen(state, true);
             }
 
             protected void onContainerClose(World world, BlockPos pos, BlockState state) {
-                DefaultCabinetBlockEntity.this.playSound(state, SoundsRegistry.BLOCK_CABINET_CLOSE.get());
+                DefaultCabinetBlockEntity.this.playSound(state, SoundEvents.BLOCK_BARREL_CLOSE);
                 DefaultCabinetBlockEntity.this.setOpen(state, false);
             }
 

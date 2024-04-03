@@ -1,5 +1,5 @@
 plugins {
-	id 'fabric-loom' version '1.4-SNAPSHOT'
+	id 'fabric-loom' version '1.5-SNAPSHOT'
 	id 'maven-publish'
 }
 
@@ -16,6 +16,17 @@ def apikeyProperties = new Properties()
 repositories {
 	maven { url 'https://maven.shedaniel.me/' }
 	maven { url 'https://api.modrinth.com/maven' }
+	maven {
+		name = "Greenhouse Maven"
+		url = 'https://maven.greenhouseteam.dev/releases/'
+	}
+	maven { url = "https://mvn.devos.one/releases/" } // Porting Lib
+	maven {
+		url "https://maven.jamieswhiteshirt.com/libs-release" // Reach Entity Attributes (Required by Porting Lib)
+		content {
+			includeGroup "com.jamieswhiteshirt"
+		}
+	}
 }
 loom {
 	runs {
@@ -57,6 +68,9 @@ dependencies {
 	modImplementation "net.fabricmc:fabric-loader:${project.loader_version}"
 	modImplementation "net.fabricmc.fabric-api:fabric-api:${project.fabric_version}"
 	modImplementation "maven.modrinth:farmers-delight-fabric:${project.delight_version}"
+	modImplementation("vectorwing:FarmersDelight:${project.fdrf_version}") {
+		exclude(group: "net.fabricmc")
+	}
 }
 
 processResources {

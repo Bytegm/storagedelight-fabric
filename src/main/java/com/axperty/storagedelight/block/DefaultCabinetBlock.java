@@ -2,7 +2,6 @@ package com.axperty.storagedelight.block;
 
 import com.axperty.storagedelight.block.entity.DefaultCabinetBlockEntity;
 import com.axperty.storagedelight.registry.BlockEntityTypesRegistry;
-import com.nhoryzon.mc.farmersdelight.block.InventoryBlockWithEntity;
 import net.fabricmc.fabric.api.object.builder.v1.block.FabricBlockSettings;
 import net.minecraft.block.Block;
 import net.minecraft.block.BlockRenderType;
