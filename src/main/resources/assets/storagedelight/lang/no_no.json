@@ -1,10 +1,7 @@
 {
   "container.storagedelight.drawer": "Skruff",
   "container.storagedelight.glass_cabinet": "Glass Skap",
-  "container.storagedelight.default_cabinet": "Skap",
-
-  "block.storagedelight.cherry_cabinet": "Kirsebær Skap",
-  "block.storagedelight.bamboo_cabinet": "Bambusskap",
+  "container.storagedelight.cabinet_with_glass_doors": "Skap",
 
   "block.storagedelight.oak_drawer": "Eik Skuff",
   "block.storagedelight.birch_drawer": "Bjørk Skuff",
@@ -30,5 +27,17 @@
   "block.storagedelight.glass_warped_cabinet": "Glass Forvridd Skap",
   "block.storagedelight.glass_bamboo_cabinet": "Glass Bambu Skap",
 
-  "itemGroup.storagedelight": "Storage Delight"
+  "block.storagedelight.oak_cabinet_with_glass_doors": "Eike skap med glassdører",
+  "block.storagedelight.birch_cabinet_with_glass_doors": "Bjørk skap med glassdører",
+  "block.storagedelight.spruce_cabinet_with_glass_doors": "Gran skap med glassdører",
+  "block.storagedelight.jungle_cabinet_with_glass_doors": "Jungel skap med glassdører",
+  "block.storagedelight.acacia_cabinet_with_glass_doors": "Akasie skap med glassdører",
+  "block.storagedelight.dark_oak_cabinet_with_glass_doors": "Mørk eik skap med glassdører",
+  "block.storagedelight.mangrove_cabinet_with_glass_doors": "Mangrove skap med glassdører",
+  "block.storagedelight.cherry_cabinet_with_glass_doors": "Kirsebær skap med glassdører",
+  "block.storagedelight.bamboo_cabinet_with_glass_doors": "Bambus skap med glassdører",
+  "block.storagedelight.warped_cabinet_with_glass_doors": "Forvridd skap med glassdører",
+  "block.storagedelight.crimson_cabinet_with_glass_doors": "Karmosinrød skap med glassdører",
+
+  "itemGroup.storagedelight.title": "Storage Delight"
 }

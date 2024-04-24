@@ -1,10 +1,7 @@
 {
   "container.storagedelight.drawer": "서랍",
   "container.storagedelight.glass_cabinet": "유리 캐비닛",
-  "container.storagedelight.default_cabinet": "체리",
-
-  "block.storagedelight.cherry_cabinet": "체리 캐비닛",
-  "block.storagedelight.bamboo_cabinet": "대나무 장",
+  "container.storagedelight.cabinet_with_glass_doors": "캐비닛",
 
   "block.storagedelight.oak_drawer": "참나무 서랍",
   "block.storagedelight.birch_drawer": "자작나무 서랍",
@@ -30,5 +27,17 @@
   "block.storagedelight.glass_warped_cabinet": "유리 찌그러진 캐비닛",
   "block.storagedelight.glass_bamboo_cabinet": "유리 대나무 캐비닛",
 
-  "itemGroup.storagedelight": "저장의 기쁨"
+  "block.storagedelight.oak_cabinet_with_glass_doors": "유리 문이 달린 참나무 캐비닛",
+  "block.storagedelight.birch_cabinet_with_glass_doors": "유리 문이 달린 자작나무 캐비닛",
+  "block.storagedelight.spruce_cabinet_with_glass_doors": "유리 문이 달린 전나무 캐비닛",
+  "block.storagedelight.jungle_cabinet_with_glass_doors": "유리 문이 달린 정글 캐비닛",
+  "block.storagedelight.acacia_cabinet_with_glass_doors": "유리 문이 달린 아카시아 캐비닛",
+  "block.storagedelight.dark_oak_cabinet_with_glass_doors": "유리 문이 달린 짙은 참나무 캐비닛",
+  "block.storagedelight.mangrove_cabinet_with_glass_doors": "유리 문이 달린 맹그로브 캐비닛",
+  "block.storagedelight.cherry_cabinet_with_glass_doors": "유리 문이 달린 체리 캐비닛",
+  "block.storagedelight.bamboo_cabinet_with_glass_doors": "유리 문이 달린 대나무 캐비닛",
+  "block.storagedelight.warped_cabinet_with_glass_doors": "유리 문이 달린 비틀린 캐비닛",
+  "block.storagedelight.crimson_cabinet_with_glass_doors": "유리 문이 달린 진홍색 캐비닛",
+
+  "itemGroup.storagedelight.title": "저장의 기쁨"
 }

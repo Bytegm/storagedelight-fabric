@@ -1,7 +1,7 @@
 package com.axperty.storagedelight.registry;
 
 import com.axperty.storagedelight.StorageDelight;
-import com.axperty.storagedelight.block.entity.DefaultCabinetBlockEntity;
+import com.axperty.storagedelight.block.entity.CabinetGlassDoorsBlockEntity;
 import com.axperty.storagedelight.block.entity.DrawerBlockEntity;
 import com.axperty.storagedelight.block.entity.GlassCabinetBlockEntity;
 import net.fabricmc.fabric.api.object.builder.v1.block.entity.FabricBlockEntityTypeBuilder;
@@ -16,11 +16,13 @@ import java.util.Arrays;
 import java.util.function.Supplier;
 
 public enum BlockEntityTypesRegistry {
+    // Drawers
     DRAWER("drawer", DrawerBlockEntity.class, DrawerBlockEntity::new,
             BlocksRegistry.OAK_DRAWER, BlocksRegistry.BIRCH_DRAWER, BlocksRegistry.SPRUCE_DRAWER,
             BlocksRegistry.JUNGLE_DRAWER, BlocksRegistry.ACACIA_DRAWER, BlocksRegistry.DARK_OAK_DRAWER,
             BlocksRegistry.MANGROVE_DRAWER, BlocksRegistry.CHERRY_DRAWER, BlocksRegistry.BAMBOO_DRAWER, BlocksRegistry.CRIMSON_DRAWER, BlocksRegistry.WARPED_DRAWER),
 
+    // Glass Cabinets
     GLASS_CABINET("glass_cabinet", GlassCabinetBlockEntity.class, GlassCabinetBlockEntity::new,
             BlocksRegistry.GLASS_OAK_CABINET, BlocksRegistry.GLASS_BIRCH_CABINET,
             BlocksRegistry.GLASS_SPRUCE_CABINET, BlocksRegistry.GLASS_JUNGLE_CABINET,
@@ -29,9 +31,14 @@ public enum BlockEntityTypesRegistry {
             BlocksRegistry.GLASS_BAMBOO_CABINET, BlocksRegistry.GLASS_CRIMSON_CABINET,
             BlocksRegistry.GLASS_WARPED_CABINET),
 
-    DEFAULT_CABINET("default_cabinet", DefaultCabinetBlockEntity.class, DefaultCabinetBlockEntity::new,
-                   BlocksRegistry.CHERRY_CABINET, BlocksRegistry.BAMBOO_CABINET);
-
+    // Cabinets with Glass Doors
+    CABINET_WITH_GLASS_DOORS("cabinet_with_glass_doors",CabinetGlassDoorsBlockEntity .class, CabinetGlassDoorsBlockEntity::new,
+                             BlocksRegistry.OAK_CABINET_WITH_GLASS_DOORS, BlocksRegistry.BIRCH_CABINET_WITH_GLASS_DOORS,
+                             BlocksRegistry.SPRUCE_CABINET_WITH_GLASS_DOORS, BlocksRegistry.JUNGLE_CABINET_WITH_GLASS_DOORS,
+                             BlocksRegistry.ACACIA_CABINET_WITH_GLASS_DOORS, BlocksRegistry.DARK_OAK_CABINET_WITH_GLASS_DOORS,
+                             BlocksRegistry.MANGROVE_CABINET_WITH_GLASS_DOORS, BlocksRegistry.CHERRY_CABINET_WITH_GLASS_DOORS,
+                             BlocksRegistry.BAMBOO_CABINET_WITH_GLASS_DOORS, BlocksRegistry.CRIMSON_CABINET_WITH_GLASS_DOORS,
+                             BlocksRegistry.WARPED_CABINET_WITH_GLASS_DOORS);
     private final String pathName;
     private final Class<? extends BlockEntity> blockEntityClass;
     private final Supplier<BlockEntityType<? extends BlockEntity>> blockEntityTypeSupplier;

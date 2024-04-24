@@ -1,10 +1,7 @@
 {
   "container.storagedelight.drawer": "Låda",
   "container.storagedelight.glass_cabinet": "Glas Skåp",
-  "container.storagedelight.default_cabinet": "Skåp",
-
-  "block.storagedelight.cherry_cabinet": "Körsbär Skåp",
-  "block.storagedelight.bamboo_cabinet": "Bambuskåp",
+  "container.storagedelight.cabinet_with_glass_doors": "Skåp",
 
   "block.storagedelight.oak_drawer": "Ek Låda",
   "block.storagedelight.birch_drawer": "Björk Låda",
@@ -30,5 +27,17 @@
   "block.storagedelight.glass_warped_cabinet": "Glas Förvriden Skåp",
   "block.storagedelight.glass_bamboo_cabinet": "Glas Bambuskåp",
 
-  "itemGroup.storagedelight": "Storage Delight"
+  "block.storagedelight.oak_cabinet_with_glass_doors": "Ek skåp med glasdörrar",
+  "block.storagedelight.birch_cabinet_with_glass_doors": "Björk skåp med glasdörrar",
+  "block.storagedelight.spruce_cabinet_with_glass_doors": "Gran skåp med glasdörrar",
+  "block.storagedelight.jungle_cabinet_with_glass_doors": "Djungel skåp med glasdörrar",
+  "block.storagedelight.acacia_cabinet_with_glass_doors": "Akacia skåp med glasdörrar",
+  "block.storagedelight.dark_oak_cabinet_with_glass_doors": "Mörk ek skåp med glasdörrar",
+  "block.storagedelight.mangrove_cabinet_with_glass_doors": "Mangroveskåp med glasdörrar",
+  "block.storagedelight.cherry_cabinet_with_glass_doors": "Körsbär skåp med glasdörrar",
+  "block.storagedelight.bamboo_cabinet_with_glass_doors": "Bambu skåp med glasdörrar",
+  "block.storagedelight.warped_cabinet_with_glass_doors": "Snedvridet skåp med glasdörrar",
+  "block.storagedelight.crimson_cabinet_with_glass_doors": "Karmosinrött skåp med glasdörrar",
+
+  "itemGroup.storagedelight.title": "Storage Delight"
 }

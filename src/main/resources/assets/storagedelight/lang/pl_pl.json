@@ -1,10 +1,7 @@
 {
   "container.storagedelight.drawer": "Szuflada",
   "container.storagedelight.glass_cabinet": "Szklana Szafka",
-  "container.storagedelight.default_cabinet": "Szafka",
-
-  "block.storagedelight.cherry_cabinet": "Kabinet Wiśniowy",
-  "block.storagedelight.bamboo_cabinet": "Szafka bambusowa",
+  "container.storagedelight.cabinet_with_glass_doors": "Szafka",
 
   "block.storagedelight.oak_drawer": "Szuflada Dębowa",
   "block.storagedelight.birch_drawer": "Szuflada Brzozowa",
@@ -30,5 +27,17 @@
   "block.storagedelight.glass_warped_cabinet": "Szklany Kabinet Wykrzywiony",
   "block.storagedelight.glass_bamboo_cabinet": "Szklany szafka bambusowa",
 
-  "itemGroup.storagedelight": "Storage Delight"
+  "block.storagedelight.oak_cabinet_with_glass_doors": "Szafka dębowa z przeszklonymi drzwiami",
+  "block.storagedelight.birch_cabinet_with_glass_doors": "Szafka brzozowa z przeszklonymi drzwiami",
+  "block.storagedelight.spruce_cabinet_with_glass_doors": "Szafka świerkowa z przeszklonymi drzwiami",
+  "block.storagedelight.jungle_cabinet_with_glass_doors": "Szafka dżunglowa z przeszklonymi drzwiami",
+  "block.storagedelight.acacia_cabinet_with_glass_doors": "Szafka akacjowa z przeszklonymi drzwiami",
+  "block.storagedelight.dark_oak_cabinet_with_glass_doors": "Szafka z ciemnego dębu z przeszklonymi drzwiami",
+  "block.storagedelight.mangrove_cabinet_with_glass_doors": "Szafka mangrowa z przeszklonymi drzwiami",
+  "block.storagedelight.cherry_cabinet_with_glass_doors": "Szafka wiśniowa z przeszklonymi drzwiami",
+  "block.storagedelight.bamboo_cabinet_with_glass_doors": "Szafka bambusowa z przeszklonymi drzwiami",
+  "block.storagedelight.warped_cabinet_with_glass_doors": "Szafka zniekształcona z przeszklonymi drzwiami",
+  "block.storagedelight.crimson_cabinet_with_glass_doors": "Szafka karmazynowa z przeszklonymi drzwiami",
+
+  "itemGroup.storagedelight.title": "Storage Delight"
 }

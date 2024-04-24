@@ -1,10 +1,7 @@
 {
   "container.storagedelight.drawer": "Cajón",
   "container.storagedelight.glass_cabinet": "Gabinete de Vidrio",
-  "container.storagedelight.default_cabinet": "Gabinete",
-
-  "block.storagedelight.cherry_cabinet": "Gabinete de Cerezo",
-  "block.storagedelight.bamboo_cabinet": "Gabinete de Bambú",
+  "container.storagedelight.cabinet_with_glass_doors": "Gabinete",
 
   "block.storagedelight.oak_drawer": "Cajón de Roble",
   "block.storagedelight.birch_drawer": "Cajón de Abedul",
@@ -30,5 +27,17 @@
   "block.storagedelight.glass_warped_cabinet": "Gabinete de Vidrio Distorcido",
   "block.storagedelight.glass_bamboo_cabinet": "Gabinete de Vidrio de Bambú",
 
-  "itemGroup.storagedelight": "Storage Delight"
+  "block.storagedelight.oak_cabinet_with_glass_doors": "Gabinete de Roble con Puertas de Vidrio",
+  "block.storagedelight.birch_cabinet_with_glass_doors": "Gabinete de Abedul con Puertas de Vidrio",
+  "block.storagedelight.spruce_cabinet_with_glass_doors": "Gabinete de Abeto con Puertas de Vidrio",
+  "block.storagedelight.jungle_cabinet_with_glass_doors": "Gabinete de Selva con Puertas de Vidrio",
+  "block.storagedelight.acacia_cabinet_with_glass_doors": "Gabinete de Acacia con Puertas de Vidrio",
+  "block.storagedelight.dark_oak_cabinet_with_glass_doors": "Gabinete de Roble Oscuro con Puertas de Vidrio",
+  "block.storagedelight.mangrove_cabinet_with_glass_doors": "Gabinete de Manglar con Puertas de Vidrio",
+  "block.storagedelight.cherry_cabinet_with_glass_doors": "Gabinete de Cerezo con Puertas de Vidrio",
+  "block.storagedelight.bamboo_cabinet_with_glass_doors": "Gabinete de Bambú con Puertas de Vidrio",
+  "block.storagedelight.warped_cabinet_with_glass_doors": "Gabinete Distorcido con Puertas de Vidrio",
+  "block.storagedelight.crimson_cabinet_with_glass_doors": "Gabinete de Carmesí con Puertas de Vidrio",
+
+  "itemGroup.storagedelight.title": "Storage Delight"
 }

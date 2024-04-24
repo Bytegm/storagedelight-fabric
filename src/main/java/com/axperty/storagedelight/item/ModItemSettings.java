@@ -14,14 +14,6 @@ public class ModItemSettings extends FabricItemSettings {
         return new ModItemSettings().maxCount(1);
     }
 
-    public static FabricItemSettings food(Foods food) {
-        return new ModItemSettings().food(food.get());
-    }
-
-    public static FabricItemSettings food(Foods food, Item remainder, int maxCount) {
-        return new ModItemSettings().food(food.get()).recipeRemainder(remainder).maxCount(maxCount);
-    }
-
     public ModItemSettings() {
         super();
     }

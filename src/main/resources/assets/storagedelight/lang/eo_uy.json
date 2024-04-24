@@ -1,10 +1,7 @@
 {
   "container.storagedelight.drawer": "Drawero",
   "container.storagedelight.glass_cabinet": "Vitro Ŝranko",
-  "container.storagedelight.default_cabinet": "Ŝranko",
-
-  "block.storagedelight.cherry_cabinet": "Kirska Ŝranko",
-  "block.storagedelight.bamboo_cabinet": "Bambua Ŝranko",
+  "container.storagedelight.cabinet_with_glass_doors": "Ŝranko",
 
   "block.storagedelight.oak_drawer": "Kverka Drawero",
   "block.storagedelight.birch_drawer": "Betula Drawero",
@@ -16,7 +13,6 @@
   "block.storagedelight.mangrove_drawer": "Mangrova Drawero",
   "block.storagedelight.crimson_drawer": "Krimsona Drawero",
   "block.storagedelight.warped_drawer": "Warpita Drawero",
-  "block.storagedelight.bamboo_drawer": "Bambua Drawero",
 
   "block.storagedelight.glass_oak_cabinet": "Vitra Kverka Ŝranko",
   "block.storagedelight.glass_birch_cabinet": "Vitra Betula Ŝranko",
@@ -28,7 +24,18 @@
   "block.storagedelight.glass_mangrove_cabinet": "Vitra Mangrova Ŝranko",
   "block.storagedelight.glass_crimson_cabinet": "Vitra Krimsona Ŝranko",
   "block.storagedelight.glass_warped_cabinet": "Vitra Warpita Ŝranko",
-  "block.storagedelight.glass_bamboo_cabinet": "Vitra Bambua Ŝranko",
 
-  "itemGroup.storagedelight": "Storage Delight"
+  "block.storagedelight.oak_cabinet_with_glass_doors": "Kverkŝranko kun vitroportoj",
+  "block.storagedelight.birch_cabinet_with_glass_doors": "Betula ŝranko kun vitroportoj",
+  "block.storagedelight.spruce_cabinet_with_glass_doors": "Abieso ŝranko kun vitroportoj",
+  "block.storagedelight.jungle_cabinet_with_glass_doors": "Dẑunglea ŝranko kun vitroportoj",
+  "block.storagedelight.acacia_cabinet_with_glass_doors": "Akaciuma ŝranko kun vitroportoj",
+  "block.storagedelight.dark_oak_cabinet_with_glass_doors": "Nigra kverkso ŝranko kun vitroportoj",
+  "block.storagedelight.mangrove_cabinet_with_glass_doors": "Mangrovea ŝranko kun vitroportoj",
+  "block.storagedelight.cherry_cabinet_with_glass_doors": "Ĉeriza ŝranko kun vitroportoj",
+  "block.storagedelight.bamboo_cabinet_with_glass_doors": "Bambua ŝranko kun vitroportoj",
+  "block.storagedelight.warped_cabinet_with_glass_doors": "Malrekta ŝranko kun vitroportoj",
+  "block.storagedelight.crimson_cabinet_with_glass_doors": "Karmezina ŝranko kun vitroportoj",
+
+  "itemGroup.storagedelight.title": "Storage Delight"
 }

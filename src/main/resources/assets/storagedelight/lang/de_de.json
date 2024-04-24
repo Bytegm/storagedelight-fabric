@@ -1,10 +1,7 @@
 {
   "container.storagedelight.drawer": "Schublade",
   "container.storagedelight.glass_cabinet": "Glasvitrine",
-  "container.storagedelight.default_cabinet": "Schrank",
-
-  "block.storagedelight.cherry_cabinet": "Kirschschrank",
-  "block.storagedelight.bamboo_cabinet": "Bambusschrank",
+  "container.storagedelight.cabinet_with_glass_doors": "Schrank",
 
   "block.storagedelight.oak_drawer": "Eichenschublade",
   "block.storagedelight.birch_drawer": "Birkenschublade",
@@ -30,5 +27,17 @@
   "block.storagedelight.glass_warped_cabinet": "Glas Verzerrter Schrank",
   "block.storagedelight.glass_bamboo_cabinet": "Glas Bambusschrank",
 
-  "itemGroup.storagedelight": "Storage Delight"
+  "block.storagedelight.oak_cabinet_with_glass_doors": "Eichenschrank mit Glastüren",
+  "block.storagedelight.birch_cabinet_with_glass_doors": "Birken Schrank mit Glastüren",
+  "block.storagedelight.spruce_cabinet_with_glass_doors": "Fichtenschrank mit Glastüren",
+  "block.storagedelight.jungle_cabinet_with_glass_doors": "Dschungel Schrank mit Glastüren",
+  "block.storagedelight.acacia_cabinet_with_glass_doors": "Akazien Schrank mit Glastüren",
+  "block.storagedelight.dark_oak_cabinet_with_glass_doors": "Schwarzeiche Schrank mit Glastüren",
+  "block.storagedelight.mangrove_cabinet_with_glass_doors": "Mangroven Schrank mit Glastüren",
+  "block.storagedelight.cherry_cabinet_with_glass_doors": "Kirsch Schrank mit Glastüren",
+  "block.storagedelight.bamboo_cabinet_with_glass_doors": "Bambus Schrank mit Glastüren",
+  "block.storagedelight.warped_cabinet_with_glass_doors": "Verzogener Schrank mit Glastüren",
+  "block.storagedelight.crimson_cabinet_with_glass_doors": "Karmesin Schrank mit Glastüren",
+
+  "itemGroup.storagedelight.title": "Storage Delight"
 }

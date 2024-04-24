@@ -1,10 +1,7 @@
 {
   "container.storagedelight.drawer": "Lade",
   "container.storagedelight.glass_cabinet": "Glazen Kast",
-  "container.storagedelight.default_cabinet": "Kast",
-
-  "block.storagedelight.cherry_cabinet": "Kersen Kast",
-  "block.storagedelight.bamboo_cabinet": "Bamboe Kast",
+  "container.storagedelight.cabinet_with_glass_doors": "Kast",
 
   "block.storagedelight.oak_drawer": "Eiken Lade",
   "block.storagedelight.birch_drawer": "Berken Lade",
@@ -30,5 +27,17 @@
   "block.storagedelight.glass_warped_cabinet": "Glazen Verdraaide Kast",
   "block.storagedelight.glass_bamboo_cabinet": "Glas Bamboe Kast",
 
-  "itemGroup.storagedelight": "Storage Delight"
+  "block.storagedelight.oak_cabinet_with_glass_doors": "Eiken kast met glazen deuren",
+  "block.storagedelight.birch_cabinet_with_glass_doors": "Berk kast met glazen deuren",
+  "block.storagedelight.spruce_cabinet_with_glass_doors": "Sparren kast met glazen deuren",
+  "block.storagedelight.jungle_cabinet_with_glass_doors": "Jungle kast met glazen deuren",
+  "block.storagedelight.acacia_cabinet_with_glass_doors": "Acacia kast met glazen deuren",
+  "block.storagedelight.dark_oak_cabinet_with_glass_doors": "Donkere eiken kast met glazen deuren",
+  "block.storagedelight.mangrove_cabinet_with_glass_doors": "Mangrove kast met glazen deuren",
+  "block.storagedelight.cherry_cabinet_with_glass_doors": "Kersen kast met glazen deuren",
+  "block.storagedelight.bamboo_cabinet_with_glass_doors": "Bamboe kast met glazen deuren",
+  "block.storagedelight.warped_cabinet_with_glass_doors": "Verdraaide kast met glazen deuren",
+  "block.storagedelight.crimson_cabinet_with_glass_doors": "Karmozijnrode kast met glazen deuren",
+
+  "itemGroup.storagedelight.title": "Storage Delight"
 }

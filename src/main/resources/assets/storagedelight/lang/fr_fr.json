@@ -1,10 +1,7 @@
 {
   "container.storagedelight.drawer": "Tiroir",
   "container.storagedelight.glass_cabinet": "Cabinet en Verre",
-  "container.storagedelight.default_cabinet": "Cabinet",
-
-  "block.storagedelight.cherry_cabinet": "Cabinet de Cerisier",
-  "block.storagedelight.bamboo_cabinet": "Armoire en bambou",
+  "container.storagedelight.cabinet_with_glass_doors": "Cabinet",
 
   "block.storagedelight.oak_drawer": "Tiroir en Chêne",
   "block.storagedelight.birch_drawer": "Tiroir en Bouleau",
@@ -30,5 +27,17 @@
   "block.storagedelight.glass_warped_cabinet": "Cabinet en Verre Déformé",
   "block.storagedelight.glass_bamboo_cabinet": "Armoire en Verre de Bambou",
 
-  "itemGroup.storagedelight": "Storage Delight"
+  "block.storagedelight.oak_cabinet_with_glass_doors": "Armoire en chêne avec portes en verre",
+  "block.storagedelight.birch_cabinet_with_glass_doors": "Armoire en bouleau avec portes en verre",
+  "block.storagedelight.spruce_cabinet_with_glass_doors": "Armoire en épinette avec portes en verre",
+  "block.storagedelight.jungle_cabinet_with_glass_doors": "Armoire de jungle avec portes en verre",
+  "block.storagedelight.acacia_cabinet_with_glass_doors": "Armoire en acacia avec portes en verre",
+  "block.storagedelight.dark_oak_cabinet_with_glass_doors": "Armoire en chêne noir avec portes en verre",
+  "block.storagedelight.mangrove_cabinet_with_glass_doors": "Armoire en mangrove avec portes en verre",
+  "block.storagedelight.cherry_cabinet_with_glass_doors": "Armoire en cerisier avec portes en verre",
+  "block.storagedelight.bamboo_cabinet_with_glass_doors": "Armoire en bambou avec portes en verre",
+  "block.storagedelight.warped_cabinet_with_glass_doors": "Armoire tordue avec portes en verre",
+  "block.storagedelight.crimson_cabinet_with_glass_doors": "Armoire cramoisie avec portes en verre",
+
+  "itemGroup.storagedelight.title": "Storage Delight"
 }

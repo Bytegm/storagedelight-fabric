@@ -21,13 +21,26 @@ public class StorageDelight implements ModInitializer {
 
     @Override
     public void onInitialize() {
+        System.out.println("[Storage Delight Fabric]: Registering items and blocks...");
         Registry.register(Registries.ITEM_GROUP, ITEM_GROUP, FabricItemGroup.builder()
-                .displayName(Text.translatable("itemGroup.storagedelight"))
+                .displayName(Text.translatable("itemGroup.storagedelight.title"))
                 .icon(() -> new ItemStack(ItemsRegistry.OAK_DRAWER.get()))
                 .build());
 
         BlocksRegistry.registerAll();
         ItemsRegistry.registerAll();
         BlockEntityTypesRegistry.registerAll();
+        System.out.println("[Storage Delight Fabric]: Items and blocks registered successfully!");
+        checkFarmersDelight();
+    }
+
+    public void checkFarmersDelight() {
+        System.out.println("[Storage Delight Fabric]: Checking Farmer's Delight version...");
+        try {
+            Class.forName("vectorwing.farmersdelight.FarmersDelight");
+            System.out.println("[Storage Delight Fabric]: Farmer's Delight Refabricated is loaded.");
+        } catch (Exception ignored) {
+            System.out.println("[Storage Delight Fabric]: Farmer's Delight [Fabric] has been archived and it will not receive updates anymore, please update to Farmer's Delight Refabricated.");
+        }
     }
 }

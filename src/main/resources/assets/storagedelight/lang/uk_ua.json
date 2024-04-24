@@ -1,0 +1,44 @@
+
+{
+  "container.storagedelight.drawer": "Ящик",
+  "container.storagedelight.glass_cabinet": "Скляний шафа",
+  "container.storagedelight.cabinet_with_glass_doors": "Шафа",
+
+  "block.storagedelight.oak_drawer": "Дубовий ящик",
+  "block.storagedelight.birch_drawer": "Березовий ящик",
+  "block.storagedelight.spruce_drawer": "Ялиновий ящик",
+  "block.storagedelight.cherry_drawer": "Вишневий ящик",
+  "block.storagedelight.jungle_drawer": "Джунглевий ящик",
+  "block.storagedelight.acacia_drawer": "Акацієвий ящик",
+  "block.storagedelight.dark_oak_drawer": "Темний дубовий ящик",
+  "block.storagedelight.mangrove_drawer": "Мангровий ящик",
+  "block.storagedelight.crimson_drawer": "Багряний ящик",
+  "block.storagedelight.warped_drawer": "Викривлений ящик",
+  "block.storagedelight.bamboo_drawer": "Бамбуковий ящик",
+
+  "block.storagedelight.glass_oak_cabinet": "Скляний дубовий шафа",
+  "block.storagedelight.glass_birch_cabinet": "Скляний березовий шафа",
+  "block.storagedelight.glass_spruce_cabinet": "Скляний ялиновий шафа",
+  "block.storagedelight.glass_cherry_cabinet": "Скляний вишневий шафа",
+  "block.storagedelight.glass_jungle_cabinet": "Скляний джунглевий шафа",
+  "block.storagedelight.glass_acacia_cabinet": "Скляний акацієвий шафа",
+  "block.storagedelight.glass_dark_oak_cabinet": "Скляний темний дубовий шафа",
+  "block.storagedelight.glass_mangrove_cabinet": "Скляний мангровий шафа",
+  "block.storagedelight.glass_crimson_cabinet": "Скляний багряний шафа",
+  "block.storagedelight.glass_warped_cabinet": "Скляний викривлений шафа",
+  "block.storagedelight.glass_bamboo_cabinet": "Скляний бамбуковий шафа",
+
+  "block.storagedelight.oak_cabinet_with_glass_doors": "Дубова шафа зі скляними дверима",
+  "block.storagedelight.birch_cabinet_with_glass_doors": "Березова шафа зі скляними дверима",
+  "block.storagedelight.spruce_cabinet_with_glass_doors": "Ялинова шафа зі скляними дверима",
+  "block.storagedelight.jungle_cabinet_with_glass_doors": "Джунглева шафа зі скляними дверима",
+  "block.storagedelight.acacia_cabinet_with_glass_doors": "Акацієва шафа зі скляними дверима",
+  "block.storagedelight.dark_oak_cabinet_with_glass_doors": "Темна дубова шафа зі скляними дверима",
+  "block.storagedelight.mangrove_cabinet_with_glass_doors": "Мангрова шафа зі скляними дверима",
+  "block.storagedelight.cherry_cabinet_with_glass_doors": "Вишнева шафа зі скляними дверима",
+  "block.storagedelight.bamboo_cabinet_with_glass_doors": "Бамбукова шафа зі скляними дверима",
+  "block.storagedelight.warped_cabinet_with_glass_doors": "Викривлена шафа зі скляними дверима",
+  "block.storagedelight.crimson_cabinet_with_glass_doors": "Багряна шафа зі скляними дверима",
+
+  "itemGroup.storagedelight.title": "Збереження радості"
+}

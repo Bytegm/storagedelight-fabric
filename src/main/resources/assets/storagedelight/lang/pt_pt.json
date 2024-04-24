@@ -1,10 +1,7 @@
 {
   "container.storagedelight.drawer": "Gaveta",
   "container.storagedelight.glass_cabinet": "Armário de Vidro",
-  "container.storagedelight.default_cabinet": "Armário",
-
-  "block.storagedelight.cherry_cabinet": "Armário de Cerejeira",
-  "block.storagedelight.bamboo_cabinet": "Armário de Bambu",
+  "container.storagedelight.cabinet_with_glass_doors": "Armário",
 
   "block.storagedelight.oak_drawer": "Gaveta de Carvalho",
   "block.storagedelight.birch_drawer": "Gaveta de Bétula",
@@ -30,5 +27,17 @@
   "block.storagedelight.glass_warped_cabinet": "Armário de Vidro Distorcido",
   "block.storagedelight.glass_bamboo_cabinet": "Armário de Vidro de Bambu",
 
-  "itemGroup.storagedelight": "Storage Delight"
+  "block.storagedelight.oak_cabinet_with_glass_doors": "Armário de carvalho com portas de vidro",
+  "block.storagedelight.birch_cabinet_with_glass_doors": "Armário de bétula com portas de vidro",
+  "block.storagedelight.spruce_cabinet_with_glass_doors": "Armário de pinho com portas de vidro",
+  "block.storagedelight.jungle_cabinet_with_glass_doors": "Armário de selva com portas de vidro",
+  "block.storagedelight.acacia_cabinet_with_glass_doors": "Armário de acácia com portas de vidro",
+  "block.storagedelight.dark_oak_cabinet_with_glass_doors": "Armário de carvalho escuro com portas de vidro",
+  "block.storagedelight.mangrove_cabinet_with_glass_doors": "Armário de mangue com portas de vidro",
+  "block.storagedelight.cherry_cabinet_with_glass_doors": "Armário de cerejeira com portas de vidro",
+  "block.storagedelight.bamboo_cabinet_with_glass_doors": "Armário de bambu com portas de vidro",
+  "block.storagedelight.warped_cabinet_with_glass_doors": "Armário deformado com portas de vidro",
+  "block.storagedelight.crimson_cabinet_with_glass_doors": "Armário carmesim com portas de vidro",
+
+  "itemGroup.storagedelight.title": "Storage Delight"
 }
