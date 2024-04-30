@@ -1,7 +1,7 @@
 {
   "container.storagedelight.drawer": "Cassetto",
   "container.storagedelight.glass_cabinet": "Armadio in vetro",
-  "container.storagedelight.cabinet_with_glass_doors": "Armadio",
+  "container.storagedelight.cabinet_variant": "Armadio",
 
   "block.storagedelight.oak_drawer": "Cassetto di quercia",
   "block.storagedelight.birch_drawer": "Cassetto di betulla",
@@ -38,6 +38,18 @@
   "block.storagedelight.bamboo_cabinet_with_glass_doors": "Armadio di bambù con ante in vetro",
   "block.storagedelight.warped_cabinet_with_glass_doors": "Armadio distorto con ante in vetro",
   "block.storagedelight.crimson_cabinet_with_glass_doors": "Armadio cremisi con ante in vetro",
+
+  "block.storagedelight.oak_single_door_cabinet": "Armadio a una porta in rovere",
+  "block.storagedelight.birch_single_door_cabinet": "Armadio a una porta in betulla",
+  "block.storagedelight.spruce_single_door_cabinet": "Armadio a una porta in abete",
+  "block.storagedelight.cherry_single_door_cabinet": "Armadio a una porta in ciliegio",
+  "block.storagedelight.jungle_single_door_cabinet": "Armadio a una porta nella giungla",
+  "block.storagedelight.acacia_single_door_cabinet": "Armadio a una porta in acacia",
+  "block.storagedelight.dark_oak_single_door_cabinet": "Armadio a una porta in quercia scura",
+  "block.storagedelight.mangrove_single_door_cabinet": "Armadio a una porta in mangrovia",
+  "block.storagedelight.crimson_single_door_cabinet": "Armadio a una porta cremisi",
+  "block.storagedelight.warped_single_door_cabinet": "Armadio a una porta distorta",
+  "block.storagedelight.bamboo_single_door_cabinet": "Armadio a una porta in bambù",
 
   "itemGroup.storagedelight.title": "Storage Delight"
 }

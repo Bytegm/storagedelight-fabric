@@ -1,7 +1,7 @@
 {
   "container.storagedelight.drawer": "Szuflada",
   "container.storagedelight.glass_cabinet": "Szklana Szafka",
-  "container.storagedelight.cabinet_with_glass_doors": "Szafka",
+  "container.storagedelight.cabinet_variant": "Szafka",
 
   "block.storagedelight.oak_drawer": "Szuflada Dębowa",
   "block.storagedelight.birch_drawer": "Szuflada Brzozowa",
@@ -38,6 +38,18 @@
   "block.storagedelight.bamboo_cabinet_with_glass_doors": "Szafka bambusowa z przeszklonymi drzwiami",
   "block.storagedelight.warped_cabinet_with_glass_doors": "Szafka zniekształcona z przeszklonymi drzwiami",
   "block.storagedelight.crimson_cabinet_with_glass_doors": "Szafka karmazynowa z przeszklonymi drzwiami",
+
+  "block.storagedelight.oak_single_door_cabinet": "Szafa z pojedynczym drzwiami dębowymi",
+  "block.storagedelight.birch_single_door_cabinet": "Szafa z pojedynczymi drzwiami brzozowymi",
+  "block.storagedelight.spruce_single_door_cabinet": "Szafa z pojedynczymi drzwiami świerkowymi",
+  "block.storagedelight.cherry_single_door_cabinet": "Szafa z pojedynczymi drzwiami wiśniowymi",
+  "block.storagedelight.jungle_single_door_cabinet": "Szafa z pojedynczymi drzwiami dżunglowymi",
+  "block.storagedelight.acacia_single_door_cabinet": "Szafa z pojedynczymi drzwiami akacjowymi",
+  "block.storagedelight.dark_oak_single_door_cabinet": "Szafa z pojedynczymi drzwiami z ciemnego dębu",
+  "block.storagedelight.mangrove_single_door_cabinet": "Szafa z pojedynczymi drzwiami mangrowymi",
+  "block.storagedelight.crimson_single_door_cabinet": "Szafa z pojedynczymi drzwiami karmazynowymi",
+  "block.storagedelight.warped_single_door_cabinet": "Szafa z pojedynczymi drzwiami wykrzywionymi",
+  "block.storagedelight.bamboo_single_door_cabinet": "Szafa z pojedynczymi drzwiami bambusowymi",
 
   "itemGroup.storagedelight.title": "Storage Delight"
 }

@@ -1,7 +1,7 @@
 {
   "container.storagedelight.drawer": "Drawero",
   "container.storagedelight.glass_cabinet": "Vitro Ŝranko",
-  "container.storagedelight.cabinet_with_glass_doors": "Ŝranko",
+  "container.storagedelight.cabinet_variant": "Ŝranko",
 
   "block.storagedelight.oak_drawer": "Kverka Drawero",
   "block.storagedelight.birch_drawer": "Betula Drawero",
@@ -36,6 +36,18 @@
   "block.storagedelight.bamboo_cabinet_with_glass_doors": "Bambua ŝranko kun vitroportoj",
   "block.storagedelight.warped_cabinet_with_glass_doors": "Malrekta ŝranko kun vitroportoj",
   "block.storagedelight.crimson_cabinet_with_glass_doors": "Karmezina ŝranko kun vitroportoj",
+
+  "block.storagedelight.oak_single_door_cabinet": "Kvina unu-porda ŝranko",
+  "block.storagedelight.birch_single_door_cabinet": "Betula unu-porda ŝranko",
+  "block.storagedelight.spruce_single_door_cabinet": "Abio unu-porda ŝranko",
+  "block.storagedelight.cherry_single_door_cabinet": "Ĉeriza unu-porda ŝranko",
+  "block.storagedelight.jungle_single_door_cabinet": "Džungle unu-porda ŝranko",
+  "block.storagedelight.acacia_single_door_cabinet": "Akacio unu-porda ŝranko",
+  "block.storagedelight.dark_oak_single_door_cabinet": "Malklara kvina unu-porda ŝranko",
+  "block.storagedelight.mangrove_single_door_cabinet": "Mangrova unu-porda ŝranko",
+  "block.storagedelight.crimson_single_door_cabinet": "Karmezina unu-porda ŝranko",
+  "block.storagedelight.warped_single_door_cabinet": "Malkvina unu-porda ŝranko",
+  "block.storagedelight.bamboo_single_door_cabinet": "Bambuo unu-porda ŝranko",
 
   "itemGroup.storagedelight.title": "Storage Delight"
 }

@@ -1,6 +1,6 @@
 package com.axperty.storagedelight.block;
 
-import com.axperty.storagedelight.block.entity.CabinetGlassDoorsBlockEntity;
+import com.axperty.storagedelight.block.entity.CabinetVariantBlockEntity;
 import com.axperty.storagedelight.registry.BlockEntityTypesRegistry;
 import net.fabricmc.fabric.api.object.builder.v1.block.FabricBlockSettings;
 import net.minecraft.block.Block;
@@ -29,12 +29,12 @@ import net.minecraft.util.math.random.Random;
 import net.minecraft.world.World;
 import org.jetbrains.annotations.Nullable;
 
-public class CabinetGlassDoorsBlock extends InventoryBlockWithEntity {
+public class CabinetVariantBlock extends InventoryBlockWithEntity {
 
     public static final DirectionProperty FACING = Properties.HORIZONTAL_FACING;
     public static final BooleanProperty OPEN = Properties.OPEN;
 
-    public CabinetGlassDoorsBlock() {
+    public CabinetVariantBlock() {
         super(FabricBlockSettings.copyOf(Blocks.BARREL));
         setDefaultState(getStateManager().getDefaultState().with(FACING, Direction.NORTH).with(OPEN, false));
     }
@@ -42,7 +42,7 @@ public class CabinetGlassDoorsBlock extends InventoryBlockWithEntity {
     @Nullable
     @Override
     public BlockEntity createBlockEntity(BlockPos pos, BlockState state) {
-        return BlockEntityTypesRegistry.CABINET_WITH_GLASS_DOORS.get().instantiate(pos, state);
+        return BlockEntityTypesRegistry.CABINET_VARIANT.get().instantiate(pos, state);
     }
 
     @Override
@@ -52,15 +52,15 @@ public class CabinetGlassDoorsBlock extends InventoryBlockWithEntity {
 
     @Override
     public void scheduledTick(BlockState state, ServerWorld world, BlockPos pos, Random random) {
-        if (world.getBlockEntity(pos) instanceof CabinetGlassDoorsBlockEntity cabinetGlassDoorsBlockEntity) {
-            cabinetGlassDoorsBlockEntity.tick();
+        if (world.getBlockEntity(pos) instanceof CabinetVariantBlockEntity cabinetVariantBlockEntity) {
+            cabinetVariantBlockEntity.tick();
         }
     }
 
     @Override
     public void onPlaced(World world, BlockPos pos, BlockState state, @Nullable LivingEntity placer, ItemStack itemStack) {
-        if (itemStack.hasCustomName() && world.getBlockEntity(pos) instanceof CabinetGlassDoorsBlockEntity cabinetGlassDoorsBlockEntity) {
-            cabinetGlassDoorsBlockEntity.setCustomName(itemStack.getName());
+        if (itemStack.hasCustomName() && world.getBlockEntity(pos) instanceof CabinetVariantBlockEntity cabinetVariantBlockEntity) {
+            cabinetVariantBlockEntity.setCustomName(itemStack.getName());
         }
     }
 
@@ -78,8 +78,8 @@ public class CabinetGlassDoorsBlock extends InventoryBlockWithEntity {
 
     @Override
     public ActionResult onUse(BlockState state, World world, BlockPos pos, PlayerEntity player, Hand hand, BlockHitResult hit) {
-        if (!world.isClient() && world.getBlockEntity(pos) instanceof CabinetGlassDoorsBlockEntity cabinetGlassDoorsBlockEntity) {
-            player.openHandledScreen(cabinetGlassDoorsBlockEntity);
+        if (!world.isClient() && world.getBlockEntity(pos) instanceof CabinetVariantBlockEntity cabinetVariantBlockEntity) {
+            player.openHandledScreen(cabinetVariantBlockEntity);
         }
 
         return ActionResult.SUCCESS;

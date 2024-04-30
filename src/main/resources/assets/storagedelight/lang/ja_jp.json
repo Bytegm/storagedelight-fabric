@@ -1,7 +1,7 @@
 {
   "container.storagedelight.drawer": "引き出し",
   "container.storagedelight.glass_cabinet": "ガラスキャビネット",
-  "container.storagedelight.cabinet_with_glass_doors": "キャビネット",
+  "container.storagedelight.cabinet_variant": "キャビネット",
 
   "block.storagedelight.oak_drawer": "オークの引き出し",
   "block.storagedelight.birch_drawer": "白樺の引き出し",
@@ -38,6 +38,18 @@
   "block.storagedelight.bamboo_cabinet_with_glass_doors": "ガラス扉の竹製キャビネット",
   "block.storagedelight.warped_cabinet_with_glass_doors": "ガラス扉の反曲したキャビネット",
   "block.storagedelight.crimson_cabinet_with_glass_doors": "ガラス扉の深紅色のキャビネット",
+
+  "block.storagedelight.oak_single_door_cabinet": "オークの片扉キャビネット",
+  "block.storagedelight.birch_single_door_cabinet": "白樺の片扉キャビネット",
+  "block.storagedelight.spruce_single_door_cabinet": "松の片扉キャビネット",
+  "block.storagedelight.cherry_single_door_cabinet": "チェリーの片扉キャビネット",
+  "block.storagedelight.jungle_single_door_cabinet": "ジャングルの片扉キャビネット",
+  "block.storagedelight.acacia_single_door_cabinet": "アカシアの片扉キャビネット",
+  "block.storagedelight.dark_oak_single_door_cabinet": "ダークオークの片扉キャビネット",
+  "block.storagedelight.mangrove_single_door_cabinet": "マングローブの片扉キャビネット",
+  "block.storagedelight.crimson_single_door_cabinet": "クリムゾンの片扉キャビネット",
+  "block.storagedelight.warped_single_door_cabinet": "ワープの片扉キャビネット",
+  "block.storagedelight.bamboo_single_door_cabinet": "竹の片扉キャビネット",
 
   "itemGroup.storagedelight.title": "保存の喜び"
 }

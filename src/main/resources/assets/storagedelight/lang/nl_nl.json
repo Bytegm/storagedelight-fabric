@@ -1,7 +1,7 @@
 {
   "container.storagedelight.drawer": "Lade",
   "container.storagedelight.glass_cabinet": "Glazen Kast",
-  "container.storagedelight.cabinet_with_glass_doors": "Kast",
+  "container.storagedelight.cabinet_variant": "Kast",
 
   "block.storagedelight.oak_drawer": "Eiken Lade",
   "block.storagedelight.birch_drawer": "Berken Lade",
@@ -38,6 +38,18 @@
   "block.storagedelight.bamboo_cabinet_with_glass_doors": "Bamboe kast met glazen deuren",
   "block.storagedelight.warped_cabinet_with_glass_doors": "Verdraaide kast met glazen deuren",
   "block.storagedelight.crimson_cabinet_with_glass_doors": "Karmozijnrode kast met glazen deuren",
+
+  "block.storagedelight.oak_single_door_cabinet": "Eikenkast met enkele deur",
+  "block.storagedelight.birch_single_door_cabinet": "Berkkast met enkele deur",
+  "block.storagedelight.spruce_single_door_cabinet": "Sparrenkast met enkele deur",
+  "block.storagedelight.cherry_single_door_cabinet": "Kersenkast met enkele deur",
+  "block.storagedelight.jungle_single_door_cabinet": "Junglekast met enkele deur",
+  "block.storagedelight.acacia_single_door_cabinet": "Acaciakast met enkele deur",
+  "block.storagedelight.dark_oak_single_door_cabinet": "Donkere eikenkast met enkele deur",
+  "block.storagedelight.mangrove_single_door_cabinet": "Mangrovekast met enkele deur",
+  "block.storagedelight.crimson_single_door_cabinet": "Karmijnrode kast met enkele deur",
+  "block.storagedelight.warped_single_door_cabinet": "Verdraaide kast met enkele deur",
+  "block.storagedelight.bamboo_single_door_cabinet": "Bamboekast met enkele deur",
 
   "itemGroup.storagedelight.title": "Storage Delight"
 }

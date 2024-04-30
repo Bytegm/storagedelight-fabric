@@ -1,7 +1,7 @@
 {
   "container.storagedelight.drawer": "Šuplík",
   "container.storagedelight.glass_cabinet": "Skleněný šatník",
-  "container.storagedelight.cabinet_with_glass_doors": "Skříňka",
+  "container.storagedelight.cabinet_variant": "Skříňka",
 
   "block.storagedelight.oak_drawer": "Dubový šuplík",
   "block.storagedelight.birch_drawer": "Březový šuplík",
@@ -38,6 +38,18 @@
   "block.storagedelight.bamboo_cabinet_with_glass_doors": "Bambusová skříňka s prosklenými dveřmi",
   "block.storagedelight.warped_cabinet_with_glass_doors": "Deformovaná skříňka s prosklenými dveřmi",
   "block.storagedelight.crimson_cabinet_with_glass_doors": "Karminová skříňka s prosklenými dveřmi",
+
+  "block.storagedelight.oak_single_door_cabinet": "Dubová skříňka s jedním dveřmi",
+  "block.storagedelight.birch_single_door_cabinet": "Březová skříňka s jedním dveřmi",
+  "block.storagedelight.spruce_single_door_cabinet": "Smrková skříňka s jedním dveřmi",
+  "block.storagedelight.cherry_single_door_cabinet": "Třešňová skříňka s jedním dveřmi",
+  "block.storagedelight.jungle_single_door_cabinet": "Džunglová skříňka s jedním dveřmi",
+  "block.storagedelight.acacia_single_door_cabinet": "Akátová skříňka s jedním dveřmi",
+  "block.storagedelight.dark_oak_single_door_cabinet": "Skříňka z tmavého dubu s jedním dveřmi",
+  "block.storagedelight.mangrove_single_door_cabinet": "Skříňka z mangrovu s jedním dveřmi",
+  "block.storagedelight.crimson_single_door_cabinet": "Karminová skříňka s jedním dveřmi",
+  "block.storagedelight.warped_single_door_cabinet": "Deformovaná skříňka s jedním dveřmi",
+  "block.storagedelight.bamboo_single_door_cabinet": "Bambusová skříňka s jedním dveřmi",
 
   "itemGroup.storagedelight.title": "Storage Delight"
 }

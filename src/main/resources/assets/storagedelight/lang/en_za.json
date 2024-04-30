@@ -1,7 +1,7 @@
 {
   "container.storagedelight.drawer": "Drawer",
   "container.storagedelight.glass_cabinet": "Glass Cabinet",
-  "container.storagedelight.cabinet_with_glass_doors": "Cabinet",
+  "container.storagedelight.cabinet_variant": "Cabinet",
 
   "block.storagedelight.oak_drawer": "Oak Drawer",
   "block.storagedelight.birch_drawer": "Birch Drawer",
@@ -38,6 +38,18 @@
   "block.storagedelight.bamboo_cabinet_with_glass_doors": "Bamboo Cabinet with Glass Doors",
   "block.storagedelight.warped_cabinet_with_glass_doors": "Warped Cabinet with Glass Doors",
   "block.storagedelight.crimson_cabinet_with_glass_doors": "Crimson Cabinet with Glass Doors",
+
+  "block.storagedelight.oak_single_door_cabinet": "Oak Single Door Cabinet",
+  "block.storagedelight.birch_single_door_cabinet": "Birch Single Door Cabinet",
+  "block.storagedelight.spruce_single_door_cabinet": "Spruce Single Door Cabinet",
+  "block.storagedelight.cherry_single_door_cabinet": "Cherry Single Door Cabinet",
+  "block.storagedelight.jungle_single_door_cabinet": "Jungle Single Door Cabinet",
+  "block.storagedelight.acacia_single_door_cabinet": "Acacia Single Door Cabinet",
+  "block.storagedelight.dark_oak_single_door_cabinet": "Dark Oak Single Door Cabinet",
+  "block.storagedelight.mangrove_single_door_cabinet": "Mangrove Single Door Cabinet",
+  "block.storagedelight.crimson_single_door_cabinet": "Crimson Single Door Cabinet",
+  "block.storagedelight.warped_single_door_cabinet": "Warped Single Door Cabinet",
+  "block.storagedelight.bamboo_single_door_cabinet": "Bamboo Single Door Cabinet",
 
   "itemGroup.storagedelight.title": "Storage Delight"
 }

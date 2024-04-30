@@ -1,7 +1,7 @@
 {
   "container.storagedelight.drawer": "서랍",
   "container.storagedelight.glass_cabinet": "유리 캐비닛",
-  "container.storagedelight.cabinet_with_glass_doors": "캐비닛",
+  "container.storagedelight.cabinet_variant": "캐비닛",
 
   "block.storagedelight.oak_drawer": "참나무 서랍",
   "block.storagedelight.birch_drawer": "자작나무 서랍",
@@ -38,6 +38,18 @@
   "block.storagedelight.bamboo_cabinet_with_glass_doors": "유리 문이 달린 대나무 캐비닛",
   "block.storagedelight.warped_cabinet_with_glass_doors": "유리 문이 달린 비틀린 캐비닛",
   "block.storagedelight.crimson_cabinet_with_glass_doors": "유리 문이 달린 진홍색 캐비닛",
+
+  "block.storagedelight.oak_single_door_cabinet": "참나무 한 개문 캐비닛",
+  "block.storagedelight.birch_single_door_cabinet": "자작나무 한 개문 캐비닛",
+  "block.storagedelight.spruce_single_door_cabinet": "전나무 한 개문 캐비닛",
+  "block.storagedelight.cherry_single_door_cabinet": "체리 한 개문 캐비닛",
+  "block.storagedelight.jungle_single_door_cabinet": "정글 한 개문 캐비닛",
+  "block.storagedelight.acacia_single_door_cabinet": "아카시아 한 개문 캐비닛",
+  "block.storagedelight.dark_oak_single_door_cabinet": "짙은 참나무 한 개문 캐비닛",
+  "block.storagedelight.mangrove_single_door_cabinet": "맹그로브 한 개문 캐비닛",
+  "block.storagedelight.crimson_single_door_cabinet": "진홍색 한 개문 캐비닛",
+  "block.storagedelight.warped_single_door_cabinet": "찌그러진 한 개문 캐비닛",
+  "block.storagedelight.bamboo_single_door_cabinet": "대나무 한 개문 캐비닛",
 
   "itemGroup.storagedelight.title": "저장의 기쁨"
 }

@@ -1,7 +1,7 @@
 {
   "container.storagedelight.drawer": "抽屜",
   "container.storagedelight.glass_cabinet": "玻璃櫃",
-  "container.storagedelight.cabinet_with_glass_doors": "櫥櫃",
+  "container.storagedelight.cabinet_variant": "櫥櫃",
 
   "block.storagedelight.oak_drawer": "橡木抽屜",
   "block.storagedelight.birch_drawer": "樺木抽屜",
@@ -38,6 +38,18 @@
   "block.storagedelight.bamboo_cabinet_with_glass_doors": "竹子玻璃門櫥櫃",
   "block.storagedelight.warped_cabinet_with_glass_doors": "彎曲玻璃門櫥櫃",
   "block.storagedelight.crimson_cabinet_with_glass_doors": "深紅玻璃門櫥櫃",
+
+  "block.storagedelight.oak_single_door_cabinet": "橡木單門櫃",
+  "block.storagedelight.birch_single_door_cabinet": "樺木單門櫃",
+  "block.storagedelight.spruce_single_door_cabinet": "雲杉單門櫃",
+  "block.storagedelight.cherry_single_door_cabinet": "櫻桃單門櫃",
+  "block.storagedelight.jungle_single_door_cabinet": "叢林單門櫃",
+  "block.storagedelight.acacia_single_door_cabinet": "相思木單門櫃",
+  "block.storagedelight.dark_oak_single_door_cabinet": "深橡木單門櫃",
+  "block.storagedelight.mangrove_single_door_cabinet": "紅樹單門櫃",
+  "block.storagedelight.crimson_single_door_cabinet": "緋紅單門櫃",
+  "block.storagedelight.warped_single_door_cabinet": "扭曲單門櫃",
+  "block.storagedelight.bamboo_single_door_cabinet": "竹單門櫃",
 
   "itemGroup.storagedelight.title": "倉儲之悦"
 }

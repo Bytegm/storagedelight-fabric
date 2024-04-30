@@ -1,7 +1,7 @@
 {
   "container.storagedelight.drawer": "Cajón",
   "container.storagedelight.glass_cabinet": "Gabinete de Vidrio",
-  "container.storagedelight.cabinet_with_glass_doors": "Gabinete",
+  "container.storagedelight.cabinet_variant": "Gabinete",
 
   "block.storagedelight.oak_drawer": "Cajón de Roble",
   "block.storagedelight.birch_drawer": "Cajón de Abedul",
@@ -38,6 +38,18 @@
   "block.storagedelight.bamboo_cabinet_with_glass_doors": "Gabinete de Bambú con Puertas de Vidrio",
   "block.storagedelight.warped_cabinet_with_glass_doors": "Gabinete Distorcido con Puertas de Vidrio",
   "block.storagedelight.crimson_cabinet_with_glass_doors": "Gabinete de Carmesí con Puertas de Vidrio",
+
+  "block.storagedelight.oak_single_door_cabinet": "Gabinete de Roble de una sola puerta",
+  "block.storagedelight.birch_single_door_cabinet": "Gabinete de Abedul de una sola puerta",
+  "block.storagedelight.spruce_single_door_cabinet": "Gabinete de Abeto de una sola puerta",
+  "block.storagedelight.cherry_single_door_cabinet": "Gabinete de Cerezo de una sola puerta",
+  "block.storagedelight.jungle_single_door_cabinet": "Gabinete de Jungla de una sola puerta",
+  "block.storagedelight.acacia_single_door_cabinet": "Gabinete de Acacia de una sola puerta",
+  "block.storagedelight.dark_oak_single_door_cabinet": "Gabinete de Roble Oscuro de una sola puerta",
+  "block.storagedelight.mangrove_single_door_cabinet": "Gabinete de Manglar de una sola puerta",
+  "block.storagedelight.crimson_single_door_cabinet": "Gabinete de Carmesí de una sola puerta",
+  "block.storagedelight.warped_single_door_cabinet": "Gabinete Distorcido de una sola puerta",
+  "block.storagedelight.bamboo_single_door_cabinet": "Gabinete de Bambú de una sola puerta",
 
   "itemGroup.storagedelight.title": "Storage Delight"
 }

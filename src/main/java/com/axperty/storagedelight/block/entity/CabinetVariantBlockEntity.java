@@ -1,6 +1,6 @@
 package com.axperty.storagedelight.block.entity;
 
-import com.axperty.storagedelight.block.CabinetGlassDoorsBlock;
+import com.axperty.storagedelight.block.CabinetVariantBlock;
 import com.axperty.storagedelight.registry.BlockEntityTypesRegistry;
 import net.minecraft.block.BlockState;
 import net.minecraft.block.entity.BlockEntityType;
@@ -30,27 +30,27 @@ import org.jetbrains.annotations.Nullable;
 
 import java.util.Objects;
 
-public class CabinetGlassDoorsBlockEntity extends LootableContainerBlockEntity {
+public class CabinetVariantBlockEntity extends LootableContainerBlockEntity {
     private static final int MAX_INVENTORY_SIZE = 27;
     private final ViewerCountManager viewerManager;
     private DefaultedList<ItemStack> content;
 
-    public CabinetGlassDoorsBlockEntity(BlockPos blockPos, BlockState blockState) {
-        this(BlockEntityTypesRegistry.CABINET_WITH_GLASS_DOORS.get(), blockPos, blockState);
+    public CabinetVariantBlockEntity(BlockPos blockPos, BlockState blockState) {
+        this(BlockEntityTypesRegistry.CABINET_VARIANT.get(), blockPos, blockState);
     }
 
-    private CabinetGlassDoorsBlockEntity(BlockEntityType<?> type, BlockPos blockPos, BlockState blockState) {
+    private CabinetVariantBlockEntity(BlockEntityType<?> type, BlockPos blockPos, BlockState blockState) {
         super(type, blockPos, blockState);
         this.content = DefaultedList.ofSize(MAX_INVENTORY_SIZE, ItemStack.EMPTY);
         this.viewerManager = new ViewerCountManager() {
             protected void onContainerOpen(World world, BlockPos pos, BlockState state) {
-                CabinetGlassDoorsBlockEntity.this.playSound(state, SoundEvents.BLOCK_BARREL_OPEN);
-                CabinetGlassDoorsBlockEntity.this.setOpen(state, true);
+                CabinetVariantBlockEntity.this.playSound(state, SoundEvents.BLOCK_BARREL_OPEN);
+                CabinetVariantBlockEntity.this.setOpen(state, true);
             }
 
             protected void onContainerClose(World world, BlockPos pos, BlockState state) {
-                CabinetGlassDoorsBlockEntity.this.playSound(state, SoundEvents.BLOCK_BARREL_CLOSE);
-                CabinetGlassDoorsBlockEntity.this.setOpen(state, false);
+                CabinetVariantBlockEntity.this.playSound(state, SoundEvents.BLOCK_BARREL_CLOSE);
+                CabinetVariantBlockEntity.this.setOpen(state, false);
             }
 
             protected void onViewerCountUpdate(World world, BlockPos pos, BlockState state, int oldViewerCount, int newViewerCount) {
@@ -60,7 +60,7 @@ public class CabinetGlassDoorsBlockEntity extends LootableContainerBlockEntity {
             protected boolean isPlayerViewing(PlayerEntity player) {
                 if (player.currentScreenHandler instanceof GenericContainerScreenHandler genericContainerScreenHandler) {
                     Inventory inventory = genericContainerScreenHandler.getInventory();
-                    return inventory == CabinetGlassDoorsBlockEntity.this;
+                    return inventory == CabinetVariantBlockEntity.this;
                 } else {
                     return false;
                 }
@@ -70,7 +70,7 @@ public class CabinetGlassDoorsBlockEntity extends LootableContainerBlockEntity {
 
     @Override
     protected Text getContainerName() {
-        return Text.translatable("container.storagedelight.cabinet_with_glass_doors");
+        return Text.translatable("container.storagedelight.cabinet_variant");
     }
 
     @Override
@@ -147,12 +147,12 @@ public class CabinetGlassDoorsBlockEntity extends LootableContainerBlockEntity {
             scheduleTick();
         } else {
             BlockState blockstate = getCachedState();
-            if (!(blockstate.getBlock() instanceof CabinetGlassDoorsBlock)) {
+            if (!(blockstate.getBlock() instanceof CabinetVariantBlock)) {
                 markRemoved();
                 return;
             }
 
-            boolean flag = blockstate.get(CabinetGlassDoorsBlock.OPEN);
+            boolean flag = blockstate.get(CabinetVariantBlock.OPEN);
             if (flag) {
                 playSound(blockstate, SoundEvents.BLOCK_BARREL_CLOSE);
                 setOpen(blockstate, false);
@@ -165,11 +165,11 @@ public class CabinetGlassDoorsBlockEntity extends LootableContainerBlockEntity {
     }
 
     private void setOpen(BlockState state, boolean open) {
-        Objects.requireNonNull(getWorld()).setBlockState(getPos(), state.with(CabinetGlassDoorsBlock.OPEN, open));
+        Objects.requireNonNull(getWorld()).setBlockState(getPos(), state.with(CabinetVariantBlock.OPEN, open));
     }
 
     private void playSound(BlockState state, SoundEvent sound) {
-        Vec3i vec3i = state.get(CabinetGlassDoorsBlock.FACING).getVector();
+        Vec3i vec3i = state.get(CabinetVariantBlock.FACING).getVector();
         BlockPos pos = getPos();
         double dX = pos.getX() + .5d + vec3i.getX() / 2.d;
         double dT = pos.getY() + .5d + vec3i.getY() / 2.d;

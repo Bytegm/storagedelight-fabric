@@ -1,7 +1,7 @@
 {
   "container.storagedelight.drawer": "Låda",
   "container.storagedelight.glass_cabinet": "Glas Skåp",
-  "container.storagedelight.cabinet_with_glass_doors": "Skåp",
+  "container.storagedelight.cabinet_variant": "Skåp",
 
   "block.storagedelight.oak_drawer": "Ek Låda",
   "block.storagedelight.birch_drawer": "Björk Låda",
@@ -38,6 +38,18 @@
   "block.storagedelight.bamboo_cabinet_with_glass_doors": "Bambu skåp med glasdörrar",
   "block.storagedelight.warped_cabinet_with_glass_doors": "Snedvridet skåp med glasdörrar",
   "block.storagedelight.crimson_cabinet_with_glass_doors": "Karmosinrött skåp med glasdörrar",
+
+  "block.storagedelight.oak_single_door_cabinet": "Ek Skåp med Enkel Dörr",
+  "block.storagedelight.birch_single_door_cabinet": "Björk Skåp med Enkel Dörr",
+  "block.storagedelight.spruce_single_door_cabinet": "Gran Skåp med Enkel Dörr",
+  "block.storagedelight.cherry_single_door_cabinet": "Körsbär Skåp med Enkel Dörr",
+  "block.storagedelight.jungle_single_door_cabinet": "Djungel Skåp med Enkel Dörr",
+  "block.storagedelight.acacia_single_door_cabinet": "Akacia Skåp med Enkel Dörr",
+  "block.storagedelight.dark_oak_single_door_cabinet": "Mörk Ek Skåp med Enkel Dörr",
+  "block.storagedelight.mangrove_single_door_cabinet": "Mangrove Skåp med Enkel Dörr",
+  "block.storagedelight.crimson_single_door_cabinet": "Karmosinröd Skåp med Enkel Dörr",
+  "block.storagedelight.warped_single_door_cabinet": "Vrängd Skåp med Enkel Dörr",
+  "block.storagedelight.bamboo_single_door_cabinet": "Bambu Skåp med Enkel Dörr",
 
   "itemGroup.storagedelight.title": "Storage Delight"
 }

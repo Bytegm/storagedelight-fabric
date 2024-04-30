@@ -33,6 +33,17 @@
     "storagedelight:cherry_cabinet_with_glass_doors",
     "storagedelight:bamboo_cabinet_with_glass_doors",
     "storagedelight:crimson_cabinet_with_glass_doors",
-    "storagedelight:warped_cabinet_with_glass_doors"
+    "storagedelight:warped_cabinet_with_glass_doors",
+    "storagedelight:oak_single_door_cabinet",
+    "storagedelight:spruce_single_door_cabinet",
+    "storagedelight:birch_single_door_cabinet",
+    "storagedelight:jungle_single_door_cabinet",
+    "storagedelight:acacia_single_door_cabinet",
+    "storagedelight:dark_oak_single_door_cabinet",
+    "storagedelight:mangrove_single_door_cabinet",
+    "storagedelight:cherry_single_door_cabinet",
+    "storagedelight:bamboo_single_door_cabinet",
+    "storagedelight:crimson_single_door_cabinet",
+    "storagedelight:warped_single_door_cabinet"
   ]
 }

@@ -2,7 +2,7 @@
 {
   "container.storagedelight.drawer": "Ящик",
   "container.storagedelight.glass_cabinet": "Скляний шафа",
-  "container.storagedelight.cabinet_with_glass_doors": "Шафа",
+  "container.storagedelight.cabinet_variant": "Шафа",
 
   "block.storagedelight.oak_drawer": "Дубовий ящик",
   "block.storagedelight.birch_drawer": "Березовий ящик",
@@ -39,6 +39,18 @@
   "block.storagedelight.bamboo_cabinet_with_glass_doors": "Бамбукова шафа зі скляними дверима",
   "block.storagedelight.warped_cabinet_with_glass_doors": "Викривлена шафа зі скляними дверима",
   "block.storagedelight.crimson_cabinet_with_glass_doors": "Багряна шафа зі скляними дверима",
+
+  "block.storagedelight.oak_single_door_cabinet": "Шафа з дуба з однією дверима",
+  "block.storagedelight.birch_single_door_cabinet": "Шафа з берези з однією дверима",
+  "block.storagedelight.spruce_single_door_cabinet": "Шафа з ялини з однією дверима",
+  "block.storagedelight.cherry_single_door_cabinet": "Шафа з вишні з однією дверима",
+  "block.storagedelight.jungle_single_door_cabinet": "Шафа з джунглів з однією дверима",
+  "block.storagedelight.acacia_single_door_cabinet": "Шафа з акації з однією дверима",
+  "block.storagedelight.dark_oak_single_door_cabinet": "Шафа з темного дуба з однією дверима",
+  "block.storagedelight.mangrove_single_door_cabinet": "Шафа з мангрового дерева з однією дверима",
+  "block.storagedelight.crimson_single_door_cabinet": "Шафа з багряного дерева з однією дверима",
+  "block.storagedelight.warped_single_door_cabinet": "Шафа з викривленого дерева з однією дверима",
+  "block.storagedelight.bamboo_single_door_cabinet": "Шафа з бамбука з однією дверима",
 
   "itemGroup.storagedelight.title": "Збереження радості"
 }

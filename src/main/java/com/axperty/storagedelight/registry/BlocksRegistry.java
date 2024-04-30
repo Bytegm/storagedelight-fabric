@@ -1,7 +1,7 @@
 package com.axperty.storagedelight.registry;
 
 import com.axperty.storagedelight.StorageDelight;
-import com.axperty.storagedelight.block.CabinetGlassDoorsBlock;
+import com.axperty.storagedelight.block.CabinetVariantBlock;
 import com.axperty.storagedelight.block.DrawerBlock;
 import com.axperty.storagedelight.block.GlassCabinetBlock;
 import net.fabricmc.api.EnvType;
@@ -19,6 +19,7 @@ import java.util.function.Supplier;
 public enum BlocksRegistry {
 
     // Drawers
+
     OAK_DRAWER("oak_drawer", DrawerBlock::new),
     BIRCH_DRAWER("birch_drawer", DrawerBlock::new),
     SPRUCE_DRAWER("spruce_drawer", DrawerBlock::new),
@@ -32,6 +33,7 @@ public enum BlocksRegistry {
     WARPED_DRAWER("warped_drawer", DrawerBlock::new),
 
     // Glass Cabinets
+
     GLASS_OAK_CABINET("glass_oak_cabinet", GlassCabinetBlock::new),
     GLASS_BIRCH_CABINET("glass_birch_cabinet", GlassCabinetBlock::new),
     GLASS_SPRUCE_CABINET("glass_spruce_cabinet", GlassCabinetBlock::new),
@@ -45,18 +47,32 @@ public enum BlocksRegistry {
     GLASS_WARPED_CABINET("glass_warped_cabinet", GlassCabinetBlock::new),
 
     // Cabinets with Glass Doors
-    OAK_CABINET_WITH_GLASS_DOORS("oak_cabinet_with_glass_doors", CabinetGlassDoorsBlock::new),
-    BIRCH_CABINET_WITH_GLASS_DOORS("birch_cabinet_with_glass_doors", CabinetGlassDoorsBlock::new),
-    SPRUCE_CABINET_WITH_GLASS_DOORS("spruce_cabinet_with_glass_doors", CabinetGlassDoorsBlock::new),
-    JUNGLE_CABINET_WITH_GLASS_DOORS("jungle_cabinet_with_glass_doors", CabinetGlassDoorsBlock::new),
-    ACACIA_CABINET_WITH_GLASS_DOORS("acacia_cabinet_with_glass_doors", CabinetGlassDoorsBlock::new),
-    DARK_OAK_CABINET_WITH_GLASS_DOORS("dark_oak_cabinet_with_glass_doors", CabinetGlassDoorsBlock::new),
-    MANGROVE_CABINET_WITH_GLASS_DOORS("mangrove_cabinet_with_glass_doors", CabinetGlassDoorsBlock::new),
-    CHERRY_CABINET_WITH_GLASS_DOORS("cherry_cabinet_with_glass_doors", CabinetGlassDoorsBlock::new),
-    BAMBOO_CABINET_WITH_GLASS_DOORS("bamboo_cabinet_with_glass_doors", CabinetGlassDoorsBlock::new),
-    CRIMSON_CABINET_WITH_GLASS_DOORS("crimson_cabinet_with_glass_doors", CabinetGlassDoorsBlock::new),
-    WARPED_CABINET_WITH_GLASS_DOORS("warped_cabinet_with_glass_doors", CabinetGlassDoorsBlock::new);
 
+    OAK_CABINET_WITH_GLASS_DOORS("oak_cabinet_with_glass_doors", CabinetVariantBlock::new),
+    BIRCH_CABINET_WITH_GLASS_DOORS("birch_cabinet_with_glass_doors", CabinetVariantBlock::new),
+    SPRUCE_CABINET_WITH_GLASS_DOORS("spruce_cabinet_with_glass_doors", CabinetVariantBlock::new),
+    JUNGLE_CABINET_WITH_GLASS_DOORS("jungle_cabinet_with_glass_doors", CabinetVariantBlock::new),
+    ACACIA_CABINET_WITH_GLASS_DOORS("acacia_cabinet_with_glass_doors", CabinetVariantBlock::new),
+    DARK_OAK_CABINET_WITH_GLASS_DOORS("dark_oak_cabinet_with_glass_doors", CabinetVariantBlock::new),
+    MANGROVE_CABINET_WITH_GLASS_DOORS("mangrove_cabinet_with_glass_doors", CabinetVariantBlock::new),
+    CHERRY_CABINET_WITH_GLASS_DOORS("cherry_cabinet_with_glass_doors", CabinetVariantBlock::new),
+    BAMBOO_CABINET_WITH_GLASS_DOORS("bamboo_cabinet_with_glass_doors", CabinetVariantBlock::new),
+    CRIMSON_CABINET_WITH_GLASS_DOORS("crimson_cabinet_with_glass_doors", CabinetVariantBlock::new),
+    WARPED_CABINET_WITH_GLASS_DOORS("warped_cabinet_with_glass_doors", CabinetVariantBlock::new),
+
+    // Single Door Cabinets
+
+    OAK_SINGLE_DOOR_CABINET("oak_single_door_cabinet", CabinetVariantBlock::new),
+    BIRCH_SINGLE_DOOR_CABINET("birch_single_door_cabinet", CabinetVariantBlock::new),
+    SPRUCE_SINGLE_DOOR_CABINET("spruce_single_door_cabinet", CabinetVariantBlock::new),
+    JUNGLE_SINGLE_DOOR_CABINET("jungle_single_door_cabinet", CabinetVariantBlock::new),
+    ACACIA_SINGLE_DOOR_CABINET("acacia_single_door_cabinet", CabinetVariantBlock::new),
+    DARK_OAK_SINGLE_DOOR_CABINET("dark_oak_single_door_cabinet", CabinetVariantBlock::new),
+    MANGROVE_SINGLE_DOOR_CABINET("mangrove_single_door_cabinet", CabinetVariantBlock::new),
+    CHERRY_SINGLE_DOOR_CABINET("cherry_single_door_cabinet", CabinetVariantBlock::new),
+    BAMBOO_SINGLE_DOOR_CABINET("bamboo_single_door_cabinet", CabinetVariantBlock::new),
+    CRIMSON_SINGLE_DOOR_CABINET("crimson_single_door_cabinet", CabinetVariantBlock::new),
+    WARPED_SINGLE_DOOR_CABINET("warped_single_door_cabinet", CabinetVariantBlock::new);
 
     private final String pathName;
     private final Supplier<Block> blockSupplier;
@@ -93,7 +109,6 @@ public enum BlocksRegistry {
         if (block == null) {
             block = blockSupplier.get();
         }
-
         return block;
     }
 

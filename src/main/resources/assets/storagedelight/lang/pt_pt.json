@@ -1,7 +1,7 @@
 {
   "container.storagedelight.drawer": "Gaveta",
   "container.storagedelight.glass_cabinet": "Armário de Vidro",
-  "container.storagedelight.cabinet_with_glass_doors": "Armário",
+  "container.storagedelight.cabinet_variant": "Armário",
 
   "block.storagedelight.oak_drawer": "Gaveta de Carvalho",
   "block.storagedelight.birch_drawer": "Gaveta de Bétula",
@@ -38,6 +38,18 @@
   "block.storagedelight.bamboo_cabinet_with_glass_doors": "Armário de bambu com portas de vidro",
   "block.storagedelight.warped_cabinet_with_glass_doors": "Armário deformado com portas de vidro",
   "block.storagedelight.crimson_cabinet_with_glass_doors": "Armário carmesim com portas de vidro",
+
+  "block.storagedelight.oak_single_door_cabinet": "Armário de Uma Porta de Carvalho",
+  "block.storagedelight.birch_single_door_cabinet": "Armário de Uma Porta de Bétula",
+  "block.storagedelight.spruce_single_door_cabinet": "Armário de Uma Porta de Pinheiro",
+  "block.storagedelight.cherry_single_door_cabinet": "Armário de Uma Porta de Cerejeira",
+  "block.storagedelight.jungle_single_door_cabinet": "Armário de Uma Porta de Selva",
+  "block.storagedelight.acacia_single_door_cabinet": "Armário de Uma Porta de Acácia",
+  "block.storagedelight.dark_oak_single_door_cabinet": "Armário de Uma Porta de Carvalho Escuro",
+  "block.storagedelight.mangrove_single_door_cabinet": "Armário de Uma Porta de Mangue",
+  "block.storagedelight.crimson_single_door_cabinet": "Armário de Uma Porta de Carmesim",
+  "block.storagedelight.warped_single_door_cabinet": "Armário de Uma Porta de Distorção",
+  "block.storagedelight.bamboo_single_door_cabinet": "Armário de Uma Porta de Bambu",
 
   "itemGroup.storagedelight.title": "Storage Delight"
 }

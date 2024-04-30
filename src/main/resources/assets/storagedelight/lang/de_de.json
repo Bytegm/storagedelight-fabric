@@ -1,7 +1,7 @@
 {
   "container.storagedelight.drawer": "Schublade",
   "container.storagedelight.glass_cabinet": "Glasvitrine",
-  "container.storagedelight.cabinet_with_glass_doors": "Schrank",
+  "container.storagedelight.cabinet_variant": "Schrank",
 
   "block.storagedelight.oak_drawer": "Eichenschublade",
   "block.storagedelight.birch_drawer": "Birkenschublade",
@@ -38,6 +38,18 @@
   "block.storagedelight.bamboo_cabinet_with_glass_doors": "Bambus Schrank mit Glastüren",
   "block.storagedelight.warped_cabinet_with_glass_doors": "Verzogener Schrank mit Glastüren",
   "block.storagedelight.crimson_cabinet_with_glass_doors": "Karmesin Schrank mit Glastüren",
+
+  "block.storagedelight.oak_single_door_cabinet": "Eiche Einzeltürschrank",
+  "block.storagedelight.birch_single_door_cabinet": "Birke Einzeltürschrank",
+  "block.storagedelight.spruce_single_door_cabinet": "Fichten-Einzeltürschrank",
+  "block.storagedelight.cherry_single_door_cabinet": "Kirsch-Einzeltürschrank",
+  "block.storagedelight.jungle_single_door_cabinet": "Dschungel-Einzeltürschrank",
+  "block.storagedelight.acacia_single_door_cabinet": "Akazie Einzeltürschrank",
+  "block.storagedelight.dark_oak_single_door_cabinet": "Dunkle Eiche Einzeltürschrank",
+  "block.storagedelight.mangrove_single_door_cabinet": "Mangroven-Einzeltürschrank",
+  "block.storagedelight.crimson_single_door_cabinet": "Karmesinrote Einzeltürschrank",
+  "block.storagedelight.warped_single_door_cabinet": "Verzerrter Einzeltürschrank",
+  "block.storagedelight.bamboo_single_door_cabinet": "Bambus Einzeltürschrank",
 
   "itemGroup.storagedelight.title": "Storage Delight"
 }

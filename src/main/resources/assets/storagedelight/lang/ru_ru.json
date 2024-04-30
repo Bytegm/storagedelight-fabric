@@ -1,7 +1,7 @@
 {
   "container.storagedelight.drawer": "Ящик",
   "container.storagedelight.glass_cabinet": "Стеклянный шкаф",
-  "container.storagedelight.cabinet_with_glass_doors": "Шкаф",
+  "container.storagedelight.cabinet_variant": "Шкаф",
 
   "block.storagedelight.oak_drawer": "Дубовый ящик",
   "block.storagedelight.birch_drawer": "Берёзовый ящик",
@@ -38,6 +38,18 @@
   "block.storagedelight.bamboo_cabinet_with_glass_doors": "Бамбуковый шкаф с стеклянными дверцами",
   "block.storagedelight.warped_cabinet_with_glass_doors": "Искривлённый шкаф с стеклянными дверцами",
   "block.storagedelight.crimson_cabinet_with_glass_doors": "Малиновый шкаф с стеклянными дверцами",
+
+  "block.storagedelight.oak_single_door_cabinet": "Шкаф из дуба с одной дверью",
+  "block.storagedelight.birch_single_door_cabinet": "Шкаф из березы с одной дверью",
+  "block.storagedelight.spruce_single_door_cabinet": "Шкаф из ели с одной дверью",
+  "block.storagedelight.cherry_single_door_cabinet": "Шкаф из вишни с одной дверью",
+  "block.storagedelight.jungle_single_door_cabinet": "Шкаф из джунглей с одной дверью",
+  "block.storagedelight.acacia_single_door_cabinet": "Шкаф из акации с одной дверью",
+  "block.storagedelight.dark_oak_single_door_cabinet": "Шкаф из темного дуба с одной дверью",
+  "block.storagedelight.mangrove_single_door_cabinet": "Шкаф из мангрового дерева с одной дверью",
+  "block.storagedelight.crimson_single_door_cabinet": "Шкаф из багряного дерева с одной дверью",
+  "block.storagedelight.warped_single_door_cabinet": "Шкаф из искаженного дерева с одной дверью",
+  "block.storagedelight.bamboo_single_door_cabinet": "Шкаф из бамбука с одной дверью",
 
   "itemGroup.storagedelight.title": "Удовольствие Хранения"
 }
